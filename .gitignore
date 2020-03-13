@@ -1,0 +1,5 @@
+# gitbook
+_book/
+
+# macOS
+.DS_Store
