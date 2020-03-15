@@ -2,8 +2,9 @@ IT 技术
 ======
 
 - [苹果开发者可能需要下载的各个版本的应用、系统、开发工具等](https://developer.apple.com/download/more/)
-- [数据结构和算法动态可视化(中文版)](https://visualgo.net/zh)
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
+- [书栈网 BookStack](https://www.bookstack.cn/)：各种IT开源书籍和文档分享站点，在线阅读很舒服
+- [码力全开](https://design.maliquankai.com/) --- 产品/设计师/独立开发者的资源库
 
 代码分享
 - [codeshare 可管理](https://codeshare.io)

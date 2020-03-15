@@ -5,5 +5,5 @@
 
 Ⅰ                         | Ⅱ                         | Ⅲ                               | Ⅳ
 --------------------------|---------------------------|---------------------------------|------------------------
-[IT 技术](./it/README.md) | [工具](./tools/READMD.md) | [文艺作品](./article/README.md) | [学习](./learn/README.md)
-[游戏](./game/READMD.md)  |                           |                                 |
+[IT 技术](./it/README.md) | [工具](./tools/READMD.md) | [文艺作品](./article/README.md) | [资源站](./find/README.md)
+[好玩](./gg/READMD.md)  |                           |                                 |
