@@ -11,3 +11,4 @@
 - [果壳剥壳](https://www.ghpym.com/) --- 还原软件的本质
 - [谷粉学术](https://gfsoso.99lb.net/scholar.html)
 - [我要自学网](https://www.51zxw.net/)
+- [GitHub 中文排行榜](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) --- 帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次
