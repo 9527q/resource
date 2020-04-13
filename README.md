@@ -8,15 +8,25 @@
 [IT 技术](./it/README.md) | [工具](./tools/READMD.md) | [文艺作品](./article/README.md) | [资源站](./find/README.md)
 [好玩](./gg/READMD.md)    |                           |                                 |
 
+## 学习资源
+
+- [全历史](https://www.allhistory.com/) --- 全世界的历史，展现方式新颖合理易看，有图；还可从画作、古籍、帝国、人物、战争、古迹几个分栏去找想要的东西；主流语言都有。
+- [OPEN CULTURE](http://www.openculture.com/) --- 最好的免费在线文化/教育资源，搜集了超多免费资源和课程
+- [谷粉学术](https://gfsoso.99lb.net/scholar.html)
+- [我要自学网](https://www.51zxw.net/)
+- [GitHub 中文排行榜](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) --- 帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次
+- [中文文案排版指北](https://github.com/mzlogin/chinese-copywriting-guidelines)
+- [Markdown 语法说明(简体中文版)](https://www.appinn.com/markdown/#list)
+
 ## 工具
 
 ### 在线工具
 
 - [万能命令](https://wanneng.run/cn/) 给出针对某个网站的可用工具集合
 - [微博党](http://weibodang.cn/) 网页截图/密码生成/视频解析
-
+- [nototo：在线可视化笔记](https://www.nototo.app/) ![nototo](./images/nototo.png)
+- [奶牛快传](https://cowtransfer.com/) --- 一款无比安全、省时高效的文件传输及存储服务
 - [彩虹屁](https://chp.shadiao.app/)
-
 - [智图压缩](https://zhitu.isux.us/)
 
 ### 插件
@@ -31,7 +41,8 @@
 - [吾爱破解](https://www.52pojie.cn/)
 - [ZD423](https://www.zdfans.com/)
 - [软件缘](https://www.appcgn.com/)
-
+- [果壳剥壳](https://www.ghpym.com/) --- 还原软件的本质
+- [eZip](https://ezip.awehunt.com/) --- 专为 macOS 而设计的压缩软件；免费！
 - [最美应用](http://zuimeia.com/)
 
 ## 文艺作品资源
@@ -52,6 +63,10 @@
 
 - [超高无损音乐](https://www.sq688.com/)
 
+### 书籍
+
+- [1000 本免费有声好书](http://www.openculture.com/freeaudiobooks)
+- [必看网](https://www.biikan.com/) --- 很多书的txt资源
 
 ## 素材
 
@@ -61,9 +76,48 @@
 - [unDraw](https://undraw.co/illustrations) 现代、简约风格的 svg 插图资源，完全开源免费
 - [pngimg](http://pngimg.com/) png 图片
 - [stick png](https://www.stickpng.com/)
+- [Iconfont](https://www.iconfont.cn/) --- 阿里巴巴矢量图标库
 
 - [wallhaven壁纸](https://wallhaven.cc/)
 
 - [Pexels](https://www.pexels.com/zh-cn/) 摄影作者分享的免费照片和视频
 - [pixabay](https://pixabay.com/) 免费的照片、插图、矢量图、视频、音乐
 - [iso 免费照片和视频](https://isorepublic.com/)
+
+- [爱给网](http://www.aigei.com/) --- 免费素材（音效、配乐、视频、3D、游戏、平面、教程）
+- [码力全开](https://design.maliquankai.com/) --- 产品/设计师/独立开发者的资源库
+
+## 好玩
+
+- [新合金弹头](http://www.4399.com/flash/1809.htm#search3) --- 网页
+- [Euclidea](https://www.euclidea.xyz/en/game/packs/) --- 平面几何作图游戏(有app)
+- [Voxel三维积木建模](https://www.makerbean.com/voxelbuilder#C/2646532a9d8fe9c46af4a261e76f51:A/)
+- [CodeTank](http://codetank.alloyteam.com/)
+- [极客战记](https://codecombat.163.com)
+- [CodeWar](https://www.codewar.cn/home)
+- [飞行模拟器](https://www.geo-fs.com/int/cn/index.php)
+- [文字修仙](https://louisalflame.github.io/CFantasyClick/index.html) <!-- console外挂 `for(var i = 0; i< 50000; i++)**$(".btn.btn-lg.btn-default")**.click()**` -->
+- [各种电脑升级、bug图片](http://fakeupdate.net)
+- [查无此人](https://thispersondoesnotexist.com/) --- 每次刷新网站，得到一张 AI 生成的人脸照片
+- [煎蛋](http://jandan.net/)
+- [PIECES 拼图（30 个 CSS 碎片进行拼图，呈现 30 种濒临灭绝的动物）](http://www.species-in-pieces.com/)
+<!-- - [konachan](http://konachan.com/) -->
+
+## 编程
+
+- [苹果开发者可能需要下载的各个版本的应用、系统、开发工具等](https://developer.apple.com/download/more/)
+- [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
+- [书栈网 BookStack](https://www.bookstack.cn/)：各种IT开源书籍和文档分享站点，在线阅读很舒服
+- [码力全开](https://design.maliquankai.com/) --- 产品/设计师/独立开发者的资源库
+
+### 代码分享
+
+- [codeshare 可管理](https://codeshare.io)
+- [ubuntu pastebin 不可管理](https://paste.ubuntu.com)
+
+### 前端
+
+- [该仓库作者校招时面试的前端复习笔记](https://github.com/CavsZhouyou/Front-End-Interview-Notebook)
+- [Rete.js：可视化编程的 JS 框架](https://github.com/retejs/rete)
+- [CSS 实现悬浮效果](https://mp.weixin.qq.com/s?__biz=MjM5NTY1MjY0MQ==&mid=2650742344&idx=3&sn=fdafa8bec7ab21dfbacb29ea2d605da5&chksm=befe8b0689890210df8483d008a5a354f988247d68f5c023df5865d985437119a88092ab7535&mpshare=1&scene=1&srcid=08174UHCvIUBYXARiory21k9#rd)
+- [sojson 背景特效](https://www.sojson.com/blog/127.html)
