@@ -1,6 +1,6 @@
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit)
 
-<p align="center">![Let's-guide-each-other-in-the-universe-of-the-Internet](http://ww1.sinaimg.cn/large/0062WsWagy1gdskvdkox7j30hs0hsq3i.jpg)</p>
+![Let's-guide-each-other-in-the-universe-of-the-Internet](http://ww1.sinaimg.cn/large/0062WsWagy1gdskvdkox7j30hs0hsq3i.jpg)
 
 学习资源
 ========
