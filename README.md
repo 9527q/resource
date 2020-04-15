@@ -101,6 +101,7 @@
 - [煎蛋](http://jandan.net/)
 - [PIECES 拼图（30 个 CSS 碎片进行拼图，呈现 30 种濒临灭绝的动物）](http://www.species-in-pieces.com/)
 <!-- - [konachan](http://konachan.com/) --- -->
+- [甜言蜜语](https://github.com/zerosoul/honeyed-words-generator) 土味情话生成，[网页](https://works.yangerxiao.com/honeyed-words-generator/)
 
 编程
 ====
