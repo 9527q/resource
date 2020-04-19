@@ -2,7 +2,7 @@
 
 ![Let's-guide-each-other-in-the-universe-of-the-Internet](http://ww1.sinaimg.cn/large/0062WsWagy1gdskvdkox7j30hs0hsq3i.jpg)
 
-学习资源
+资源
 ========
 
 - [全历史](https://www.allhistory.com/) --- 全世界的历史，展现方式新颖合理易看，有图；还可从画作、古籍、帝国、人物、战争、古迹几个分栏去找想要的东西；主流语言都有。
@@ -12,6 +12,7 @@
 - [GitHub 中文排行榜](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) --- 帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次
 - [中文文案排版指北](https://github.com/mzlogin/chinese-copywriting-guidelines)
 - [Markdown 语法说明(简体中文版)](https://www.appinn.com/markdown/#list)
+- [互联网档案馆](https://archive.org/)
 
 工具
 ====
@@ -38,7 +39,7 @@
 - [ZD423](https://www.zdfans.com/)
 - [软件缘](https://www.appcgn.com/)
 - [果壳剥壳](https://www.ghpym.com/) --- 还原软件的本质
-- [eZip](https://ezip.awehunt.com/) --- 专为 macOS 而设计的压缩软件；免费！
+- [eZip](https://ezip.awehunt.com/) --- 专为 macOS 而设计的压缩软件；免费
 - [最美应用](http://zuimeia.com/)
 - [cpolar](https://dashboard.cpolar.com/get-started) --- 内网穿透
 
@@ -65,6 +66,7 @@
 
 - [1000 本免费有声好书](http://www.openculture.com/freeaudiobooks)
 - [必看网](https://www.biikan.com/) --- 很多书的txt资源
+- [斯诺登自传](https://a.temporaryrecord.com/)
 
 素材
 ====
@@ -82,6 +84,7 @@
 - [Pexels](https://www.pexels.com/zh-cn/) --- 摄影作者分享的免费照片和视频
 - [pixabay](https://pixabay.com/) --- 免费的照片、插图、矢量图、视频、音乐
 - [iso 免费照片和视频](https://isorepublic.com/)
+- [生物多样性图书馆](https://www.flickr.com/photos/biodivlibrary/) --- 海量生物插图，来自历史上各种资料，免费
 
 - [爱给网](http://www.aigei.com/) --- 免费素材（音效、配乐、视频、3D、游戏、平面、教程）
 - [码力全开](https://design.maliquankai.com/) --- 产品/设计师/独立开发者的资源库
@@ -107,15 +110,27 @@
 编程
 ====
 
+### 资源
+
 - [苹果开发者可能需要下载的各个版本的应用、系统、开发工具等](https://developer.apple.com/download/more/)
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
 - [书栈网 BookStack](https://www.bookstack.cn/)：各种IT开源书籍和文档分享站点，在线阅读很舒服
 - [码力全开](https://design.maliquankai.com/) --- 产品/设计师/独立开发者的资源库
 
-### 代码分享
+### 工具
 
-- [codeshare 可管理](https://codeshare.io)
-- [ubuntu pastebin 不可管理](https://paste.ubuntu.com)
+- [codefence](https://codefence.io/) --- 可以嵌入网页的交互式代码编辑器，能直接在网页上输入代码并运行，得到结果，服务端是 Docker 容器，目前支持十几种主流的计算机语言
+- 代码分享
+  - [codeshare 可管理](https://codeshare.io)
+  - [ubuntu pastebin 不可管理](https://paste.ubuntu.com)
+- [将 Markdown 转为思维导图的开源工具](https://markmap.js.org/)
+- [GitHub 使用技巧](https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/)
+- [Branca](https://branca.io/) --- 一种安全令牌的数据格式，比 JWT 更安全
+
+### 知识点
+
+- [Docker 镜像构建教程：减小镜像体积（中文）](https://fuckcloudnative.io/posts/docker-images-part1-reducing-image-size/)
+- [分布式哈希表 (DHT) 和 P2P 技术](https://luyuhuang.github.io/2020/03/06/dht-and-p2p.html)
 
 ### 前端
 
