@@ -118,14 +118,14 @@
 
 [Django-admin-cookbook](https://books.agiliq.com/projects/django-admin-cookbook/en/latest/index.html)
 
-### 资源
+## 资源
 
 - [苹果开发者可能需要下载的各个版本的应用、系统、开发工具等](https://developer.apple.com/download/more/)
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
 - [书栈网 BookStack](https://www.bookstack.cn/)：各种IT开源书籍和文档分享站点，在线阅读很舒服
 - [码力全开](https://design.maliquankai.com/) --- 产品/设计师/独立开发者的资源库
 
-### 工具
+## 工具
 
 - [codefence](https://codefence.io/) --- 可以嵌入网页的交互式代码编辑器，能直接在网页上输入代码并运行，得到结果，服务端是 Docker 容器，目前支持十几种主流的计算机语言
 - 代码分享
@@ -135,12 +135,12 @@
 - [GitHub 使用技巧](https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/)
 - [Branca](https://branca.io/) --- 一种安全令牌的数据格式，比 JWT 更安全
 
-### 知识点
+## 知识点
 
 - [Docker 镜像构建教程：减小镜像体积（中文）](https://fuckcloudnative.io/posts/docker-images-part1-reducing-image-size/)
 - [分布式哈希表 (DHT) 和 P2P 技术](https://luyuhuang.github.io/2020/03/06/dht-and-p2p.html)
 
-### 前端
+## 前端
 
 - [该仓库作者校招时面试的前端复习笔记](https://github.com/CavsZhouyou/Front-End-Interview-Notebook)
 - [Rete.js：可视化编程的 JS 框架](https://github.com/retejs/rete)
