@@ -31,6 +31,7 @@
 - [Chrome 插件英雄榜](https://zhaoolee.gitbooks.io/chrome/content/)
 - [油猴](https://www.tampermonkey.net/) --- 最流行的用户脚本管理器
 - [Greasy Fork](https://greasyfork.org/zh-CN) --- 提供用户脚本的网站
+- [彩云小译](https://fanyi.caiyunapp.com/#/web) --- 指定一个词、一段话实时翻译；翻译整个页面并双语显示；
 
 ## 软件
 
