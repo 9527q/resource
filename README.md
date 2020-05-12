@@ -113,8 +113,11 @@
 - [yorg3](https://yorg3.io/) --- 塔防
 
 
-编程
-====
+# 开发
+
+## Python
+
+[Django-admin-cookbook](https://books.agiliq.com/projects/django-admin-cookbook/en/latest/index.html)
 
 ### 资源
 
