@@ -18,6 +18,7 @@
 
 ## 在线工具
 
+- [Urban Dictionary 英文方言词典](https://www.urbandictionary.com/)
 - [万能命令](https://wanneng.run/cn/) --- 给出针对某个网站的可用工具集合
 - [微博党](http://weibodang.cn/) --- 网页截图/密码生成/视频解析
 - [nototo：在线可视化笔记](https://www.nototo.app/)
