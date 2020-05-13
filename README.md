@@ -31,7 +31,8 @@
 - [Chrome 插件英雄榜](https://zhaoolee.gitbooks.io/chrome/content/)
 - [油猴](https://www.tampermonkey.net/) --- 最流行的用户脚本管理器
 - [Greasy Fork](https://greasyfork.org/zh-CN) --- 提供用户脚本的网站
-- [彩云小译](https://fanyi.caiyunapp.com/#/web) --- 指定一个词、一段话实时翻译；翻译整个页面并双语显示；
+- [彩云小译](https://fanyi.caiyunapp.com/#/web) --- 指定一个词、一段话实时翻译；翻译整个页面并双语显示；不用登录
+- [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=zh-CN) --- 校验、查看响应中的 JSON 数据
 
 ## 软件
 
@@ -120,10 +121,31 @@
 
 [Django-admin-cookbook](https://books.agiliq.com/projects/django-admin-cookbook/en/latest/index.html)
 
-## 资源
+## macOS
 
 - [苹果开发者可能需要下载的各个版本的应用、系统、开发工具等](https://developer.apple.com/download/more/)
-- [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
+
+## Docker
+
+- [Docker 镜像构建教程：减小镜像体积（中文）](https://fuckcloudnative.io/posts/docker-images-part1-reducing-image-size/)
+
+## 算法
+
+- [分布式哈希表 (DHT) 和 P2P 技术](https://luyuhuang.github.io/2020/03/06/dht-and-p2p.html)
+
+## 前端
+
+- [该仓库作者校招时面试的前端复习笔记](https://github.com/CavsZhouyou/Front-End-Interview-Notebook)
+- [Rete.js：可视化编程的 JS 框架](https://github.com/retejs/rete)
+- [CSS 实现悬浮效果](https://mp.weixin.qq.com/s?__biz=MjM5NTY1MjY0MQ==&mid=2650742344&idx=3&sn=fdafa8bec7ab21dfbacb29ea2d605da5&chksm=befe8b0689890210df8483d008a5a354f988247d68f5c023df5865d985437119a88092ab7535&mpshare=1&scene=1&srcid=08174UHCvIUBYXARiory21k9#rd)
+- [sojson 背景特效](https://www.sojson.com/blog/127.html)
+
+## Git
+
+- [GitHub 使用技巧](https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/)
+
+## 资源
+
 - [书栈网 BookStack](https://www.bookstack.cn/)：各种IT开源书籍和文档分享站点，在线阅读很舒服
 - [码力全开](https://design.maliquankai.com/) --- 产品/设计师/独立开发者的资源库
 
@@ -134,17 +156,12 @@
   - [codeshare 可管理](https://codeshare.io)
   - [ubuntu pastebin 不可管理](https://paste.ubuntu.com)
 - [将 Markdown 转为思维导图的开源工具](https://markmap.js.org/)
-- [GitHub 使用技巧](https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/)
 - [Branca](https://branca.io/) --- 一种安全令牌的数据格式，比 JWT 更安全
 
-## 知识点
+### 终端
 
-- [Docker 镜像构建教程：减小镜像体积（中文）](https://fuckcloudnative.io/posts/docker-images-part1-reducing-image-size/)
-- [分布式哈希表 (DHT) 和 P2P 技术](https://luyuhuang.github.io/2020/03/06/dht-and-p2p.html)
+- [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
 
-## 前端
+### 浏览器插件
 
-- [该仓库作者校招时面试的前端复习笔记](https://github.com/CavsZhouyou/Front-End-Interview-Notebook)
-- [Rete.js：可视化编程的 JS 框架](https://github.com/retejs/rete)
-- [CSS 实现悬浮效果](https://mp.weixin.qq.com/s?__biz=MjM5NTY1MjY0MQ==&mid=2650742344&idx=3&sn=fdafa8bec7ab21dfbacb29ea2d605da5&chksm=befe8b0689890210df8483d008a5a354f988247d68f5c023df5865d985437119a88092ab7535&mpshare=1&scene=1&srcid=08174UHCvIUBYXARiory21k9#rd)
-- [sojson 背景特效](https://www.sojson.com/blog/127.html)
+- [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=zh-CN) --- 校验、查看响应中的 JSON 数据
