@@ -5,7 +5,7 @@
 资源
 ========
 
-- [全历史](https://www.allhistory.com/) --- 全世界的历史，展现方式新颖合理易看，有图；还可从画作、古籍、帝国、人物、战争、古迹几个分栏去找想要的东西；主流语言都有。
+- [全历史](https://www.allhistory.com/) --- 全世界的历史，展现方式新颖合理易看，有图；还可从画作、古籍、帝国、人物、战争、古迹几个分栏去找想要的东西；多种语言
 - [OPEN CULTURE](http://www.openculture.com/) --- 最好的免费在线文化/教育资源，搜集了超多免费资源和课程
 - [谷粉学术](https://gfsoso.99lb.net/scholar.html)
 - [我要自学网](https://www.51zxw.net/)
@@ -44,6 +44,7 @@
 - [eZip](https://ezip.awehunt.com/) --- 专为 macOS 而设计的压缩软件；免费
 - [最美应用](http://zuimeia.com/)
 - [cpolar](https://dashboard.cpolar.com/get-started) --- 内网穿透
+- [Excel 帮助和学习（中文）](https://support.office.com/zh-cn/excel)
 
 文艺作品资源
 ============
