@@ -25,6 +25,7 @@
 - [奶牛快传](https://cowtransfer.com/) --- 一款无比安全、省时高效的文件传输及存储服务
 - [彩虹屁](https://chp.shadiao.app/)
 - [智图压缩](https://zhitu.isux.us/)
+- [File2HD](http://www.file2hd.com/) --- Download any file from any site。根据 url 下载网页的文件。
 
 ## 浏览器插件
 
