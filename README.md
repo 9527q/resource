@@ -144,6 +144,8 @@
 - [Rete.js：可视化编程的 JS 框架](https://github.com/retejs/rete)
 - [CSS 实现悬浮效果](https://mp.weixin.qq.com/s?__biz=MjM5NTY1MjY0MQ==&mid=2650742344&idx=3&sn=fdafa8bec7ab21dfbacb29ea2d605da5&chksm=befe8b0689890210df8483d008a5a354f988247d68f5c023df5865d985437119a88092ab7535&mpshare=1&scene=1&srcid=08174UHCvIUBYXARiory21k9#rd)
 - [sojson 背景特效](https://www.sojson.com/blog/127.html)
+- [深入浅出现代Web编程](https://fullstackopen.com/zh/)
+- [uPlot](https://github.com/leeoniya/uPlot) --- 一个小（25k）而快的图表展示库
 
 ## Git
 
