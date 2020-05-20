@@ -1,6 +1,10 @@
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit)
 
-![Let's-guide-each-other-in-the-universe-of-the-Internet](http://ww1.sinaimg.cn/large/0062WsWagy1gdskvdkox7j30hs0hsq3i.jpg)
+<div align="center">
+  <img src="http://ww1.sinaimg.cn/large/0062WsWagy1gdskvdkox7j30hs0hsq3i.jpg" alt="Let's guide each other in the universe of the Internet" height="350" width="350" >
+</div>
+
+**[项目静态站点](https://9527q.github.io/resource/)**
 
 资源
 ========
