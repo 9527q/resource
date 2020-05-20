@@ -27,6 +27,8 @@
 - [智图压缩](https://zhitu.isux.us/)
 - [File2HD](http://www.file2hd.com/) --- Download any file from any site。根据 url 下载网页的文件。
 - [全世界自来水能否安全饮用查询](https://www.iswatersafetodrink.in/) [中国](https://www.iswatersafetodrink.in/China)
+- [Detexify 网页版](http://detexify.kirelabs.org/classify.html) --- 根据画出的单个字符推断其 Latex 代码
+- [GOSSIP](https://pearmini.gitee.io/gossip/) --- 炫酷的创建类PPT内容，在网页播放 [GitHub](https://github.com/pearmini/gossip)
 
 ## 浏览器插件
 
