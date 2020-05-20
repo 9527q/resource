@@ -26,6 +26,7 @@
 - [彩虹屁](https://chp.shadiao.app/)
 - [智图压缩](https://zhitu.isux.us/)
 - [File2HD](http://www.file2hd.com/) --- Download any file from any site。根据 url 下载网页的文件。
+- [全世界自来水能否安全饮用查询](https://www.iswatersafetodrink.in/) [中国](https://www.iswatersafetodrink.in/China)
 
 ## 浏览器插件
 
