@@ -1,10 +1,13 @@
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit)
 
-<div align="center">
-  <img src="http://ww1.sinaimg.cn/large/0062WsWagy1gdskvdkox7j30hs0hsq3i.jpg" alt="Let's guide each other in the universe of the Internet" height="350" width="350" >
-</div>
-
-**[项目静态站点](https://9527q.github.io/resource/)**
+<a href="https://9527q.github.io/resource/">
+  <div align="center">
+      <img src="http://ww1.sinaimg.cn/large/0062WsWagy1gdskvdkox7j30hs0hsq3i.jpg" alt="Let's guide each other in the universe of the Internet" height="150" width="150" >
+  </div>
+  <div align="center">
+      <b>静态站点</b>
+  </div>
+</a>
 
 资源
 ========
@@ -13,7 +16,7 @@
 - [OPEN CULTURE](http://www.openculture.com/) --- 最好的免费在线文化/教育资源，搜集了超多免费资源和课程
 - [谷粉学术](https://gfsoso.99lb.net/scholar.html)
 - [我要自学网](https://www.51zxw.net/)
-- [GitHub 中文排行榜](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) --- 帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次
+- [GitHub 中文排行榜](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) --- 帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；每周更新一次
 - [中文文案排版指北](https://github.com/mzlogin/chinese-copywriting-guidelines)
 - [Markdown 语法说明(简体中文版)](https://www.appinn.com/markdown/#list)
 - [互联网档案馆](https://archive.org/)
