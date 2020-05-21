@@ -1,4 +1,5 @@
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit)
+![](https://img.shields.io/github/repo-size/9527q/resouce.svg?label=Repo%20size&style=flat-square)
 
 
 <div align="center">
