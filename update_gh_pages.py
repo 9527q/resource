@@ -12,7 +12,7 @@ TAG = '资源'
 
 class Git:
     def _run(self, cmd):
-        return os.popen(cmd)
+        return os.system(cmd)
 
     def checkout(self, branch):
         return self._run('git checkout {}'.format(branch))
@@ -23,17 +23,18 @@ class Git:
     def commit(self, msg):
         return self._run('git commit -m {}'.format(msg))
 
+    def push(self)
+        return self._run('git push')
+
 
 git = Git()
 git.checkout(FROM.branch)
-time.sleep(0.3)
 with open(FROM.file) as f:
     read_content = f.read()
     i = read_content.index(TAG)
     read_content = read_content[i:]
 
 git.checkout(TO.branch)
-time.sleep(0.3)
 with open(TO.file, 'r+') as f:
     write_content = f.read()
     i = write_content.index(TAG)
@@ -43,4 +44,5 @@ with open(TO.file, 'r+') as f:
 
 git.add(TO.file)
 git.commit('update from master')
+git.push()
 git.checkout(FROM.branch)
