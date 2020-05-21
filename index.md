@@ -150,10 +150,14 @@
 - [深入浅出现代Web编程](https://fullstackopen.com/zh/)
 - [uPlot](https://github.com/leeoniya/uPlot) --- 一个小（25k）而快的图表展示库
 
-## Git
+## Git、GitHub
 
+- [Git 推送到多个仓库](http://www.gnailuy.com/linux/2019/02/25/git-push-to-multiple-repositories/)
 - [GitHub 使用技巧](https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/)
 - [GitHub 帮助文档](https://help.github.com/cn) --- 中文未翻译完
+- [从 0 开始学习 GitHub](https://pan.baidu.com/s/1hsn57YO) --- 中文
+- [Github 使用技巧：存储文件、项目实例](http://solutionoptimist.com/awesome-github-tricks/)
+- [GitHub 部署网站](https://blog.csdn.net/u010105970/article/details/53889297)
 
 ## 资源
 
