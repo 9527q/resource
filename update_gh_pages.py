@@ -4,7 +4,7 @@ from collections import namedtuple
 
 Addr = namedtuple('Addr', ['branch', 'file'])
 
-FROM = Addr('master', 'REDAME.md')
+FROM = Addr('master', 'README.md')
 TO = Addr('gh-pages', 'index.md')
 TAG = '资源'
 
