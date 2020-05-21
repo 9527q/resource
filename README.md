@@ -154,6 +154,7 @@
 ## Git
 
 - [GitHub 使用技巧](https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/)
+- [GitHub 帮助文档](https://help.github.com/cn) --- 中文未翻译完
 
 ## 资源
 
