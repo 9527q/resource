@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="http://ww1.sinaimg.cn/large/0062WsWagy1gdskvdkox7j30hs0hsq3i.jpg" alt="Let's guide each other in the universe of the Internet" height="350" width="350" >
+  <img 
+    src="http://ww1.sinaimg.cn/large/0062WsWagy1gdskvdkox7j30hs0hsq3i.jpg" 
+    alt="Let's guide each other in the universe of the Internet" 
+    height="350" width="350">
 </div>
 
 资源
