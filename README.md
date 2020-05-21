@@ -1,7 +1,6 @@
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit)
 ![](https://img.shields.io/github/repo-size/9527q/resource.svg?label=Repo%20size&style=flat-square)
 
-
 <div align="center">
   <img
     src="http://ww1.sinaimg.cn/large/0062WsWagy1gdskvdkox7j30hs0hsq3i.jpg" 
