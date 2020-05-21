@@ -1,5 +1,6 @@
 # -*- coding:utf-8 -*-
 import os
+import time
 from collections import namedtuple
 
 Addr = namedtuple('Addr', ['branch', 'file'])
@@ -25,12 +26,14 @@ class Git:
 
 git = Git()
 git.checkout(FROM.branch)
+time.sleep(0.3)
 with open(FROM.file) as f:
     read_content = f.read()
     i = read_content.index(TAG)
     read_content = read_content[i:]
 
 git.checkout(TO.branch)
+time.sleep(0.3)
 with open(TO.file, 'r+') as f:
     write_content = f.read()
     i = write_content.index(TAG)
