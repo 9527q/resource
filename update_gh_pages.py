@@ -43,3 +43,4 @@ with open(TO.file, 'r+') as f:
 
 git.add(TO.file)
 git.commit('update from master')
+git.checkout(FROM.branch)
