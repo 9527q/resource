@@ -21,7 +21,7 @@ class Git:
         return self._run('git add {}'.format(', '.join(files)))
 
     def commit(self, msg):
-        return self._run('git commit -m {}'.format(msg))
+        return self._run('git commit -m "{}"'.format(msg))
 
     def push(self):
         return self._run('git push')
