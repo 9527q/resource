@@ -1,6 +1,13 @@
 import os
+from collections import namedtuple
 
-print(os.system('git status'))
-print('111')
-print(os.system('git add update_gh_pages.py'))
-print(os.system('git commit -m "update from master"'))
+Addr = namedtuple('Addr', ['branch', 'path'])
+
+FROM = Addr('master', 'README.md')
+TO = Addr('gh-pages', 'index.md')
+
+def checkout(branch):
+    os.system('git checkout {}'.format(branch))
+
+
+checkout(TO.branch)
