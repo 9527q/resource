@@ -149,6 +149,7 @@
 - [sojson 背景特效](https://www.sojson.com/blog/127.html)
 - [深入浅出现代Web编程](https://fullstackopen.com/zh/)
 - [uPlot](https://github.com/leeoniya/uPlot) --- 一个小（25k）而快的图表展示库
+- [js 通过 Cloudflare 免费获取请求者的所在国家和IP](https://blog.dataflowkit.com/determine-location-of-users/)
 
 ## Git、GitHub
 
