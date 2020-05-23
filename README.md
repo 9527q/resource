@@ -27,7 +27,7 @@
 
 # 工具
 
-## 在线工具
+## 网页工具
 
 - [Urban Dictionary 英文方言词典](https://www.urbandictionary.com/)
 - [万能命令](https://wanneng.run/cn/) --- 给出针对某个网站的可用工具集合
@@ -133,6 +133,8 @@
 
 # 开发
 
+- [微定时架构](https://blog.betacat.io/post/how-wecron-schedules/) --- 微定时是一个通过公众号实现定时提醒的工具，本文介绍其架构，服务端代码是开源的，使用 Django 完成。[Github](https://github.com/polyrabbit/WeCron)
+
 ## Python
 
 [Django-admin-cookbook](https://books.agiliq.com/projects/django-admin-cookbook/en/latest/index.html)
@@ -157,7 +159,7 @@
 - [sojson 背景特效](https://www.sojson.com/blog/127.html)
 - [深入浅出现代Web编程](https://fullstackopen.com/zh/)
 - [uPlot](https://github.com/leeoniya/uPlot) --- 一个小（25k）而快的图表展示库
-- [js 通过 Cloudflare 免费获取请求者的所在国家和IP](https://blog.dataflowkit.com/determine-location-of-users/)
+- [js 通过 Cloudflare 免费获取请求者的所在国家和IP](https://blog.dataflowkit.com/determine-location-of-users/)  --- 例如：用于疫情、语言、价格符号、广告
 
 ## Git、GitHub
 
