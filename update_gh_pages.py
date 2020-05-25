@@ -27,6 +27,7 @@ class Git:
 
 
 def place_blank_tag(sentence):
+    """给 MD 格式的链接加上 {:target="_blank"} 后缀，方便 GitHub Pages 实现新 Tab 打开"""
     return re.sub('\[.+\]\(.+\)(?!{:target="_blank"})', '\g<0>{:target="_blank"}', sentence)
 
 
