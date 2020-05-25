@@ -16,7 +16,7 @@
 资源
 ========
 
-- [全历史](https://www.allhistory.com/) --- 全世界的历史，展现方式新颖合理易看，有图；还可从画作、古籍、帝国、人物、战争、古迹几个分栏去找想要的东西；多种语言
+- [全历史](https://www.allhistory.com/){:target="_blank"} --- 全世界的历史，展现方式新颖合理易看，有图；还可从画作、古籍、帝国、人物、战争、古迹几个分栏去找想要的东西；多种语言
 - [OPEN CULTURE](http://www.openculture.com/) --- 最好的免费在线文化/教育资源，搜集了超多免费资源和课程
 - [谷粉学术](https://gfsoso.99lb.net/scholar.html)
 - [我要自学网](https://www.51zxw.net/)
@@ -24,6 +24,7 @@
 - [中文文案排版指北](https://github.com/mzlogin/chinese-copywriting-guidelines)
 - [Markdown 语法说明(简体中文版)](https://www.appinn.com/markdown/#list)
 - [互联网档案馆](https://archive.org/)
+- [哲学剃刀](https://zh.wikipedia.org/wiki/%E5%93%B2%E5%AD%A6%E5%89%83%E5%88%80)
 
 # 工具
 
@@ -129,6 +130,7 @@
 - [文字修仙](https://louisalflame.github.io/CFantasyClick/index.html) --- console外挂 `for(var i = 0; i< 50000; i++)**$(".btn.btn-lg.btn-default")**.click()**`
 - [yorg](https://yorg.io/) --- 塔防
 - [yorg3](https://yorg3.io/) --- 塔防
+- [最难的数独](https://www.theverge.com/tldr/2020/5/18/21262771/sudoku-puzzle-cracking-the-cryptic-watch-this-video-simon-anthony) --- 数独游戏是根据预先给出的数字，将每一行、每一列、每个小方块都填满1～9不同的数字。预先给出的数字越少，游戏越难。上面的链接有一个视频，里面是一个只给出两个数字的数独难题。视频记录了，如何用25分解出这个数独。
 
 
 # 开发
