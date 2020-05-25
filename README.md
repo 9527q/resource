@@ -16,7 +16,7 @@
 资源
 ========
 
-- [全历史](https://www.allhistory.com/{:target="_blank"}) --- 全世界的历史，展现方式新颖合理易看，有图；还可从画作、古籍、帝国、人物、战争、古迹几个分栏去找想要的东西；多种语言
+- [全历史{:target="_blank"}](https://www.allhistory.com/) --- 全世界的历史，展现方式新颖合理易看，有图；还可从画作、古籍、帝国、人物、战争、古迹几个分栏去找想要的东西；多种语言
 - [OPEN CULTURE](http://www.openculture.com/) --- 最好的免费在线文化/教育资源，搜集了超多免费资源和课程
 - [谷粉学术](https://gfsoso.99lb.net/scholar.html)
 - [我要自学网](https://www.51zxw.net/)
