@@ -20,9 +20,9 @@
 - [OPEN CULTURE:target="_blank"](http://www.openculture.com/) --- 最好的免费在线文化/教育资源，搜集了超多免费资源和课程
 - [谷粉学术](https://gfsoso.99lb.net/scholar.html:target="_blank")
 - [我要自学网](https://www.51zxw.net/):target="_blank"
-- [GitHub 中文排行榜](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) --- 帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；每周更新一次
-- [中文文案排版指北](https://github.com/mzlogin/chinese-copywriting-guidelines)
-- [Markdown 语法说明(简体中文版)](https://www.appinn.com/markdown/#list)
+- [GitHub 中文排行榜{:target="_blank"}](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) --- 帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；每周更新一次
+- [中文文案排版指北](https://github.com/mzlogin/chinese-copywriting-guidelines{:target="_blank"})
+- [Markdown 语法说明(简体中文版)](https://www.appinn.com/markdown/#list){:target="_blank"}
 - [互联网档案馆](https://archive.org/)
 - [哲学剃刀](https://zh.wikipedia.org/wiki/%E5%93%B2%E5%AD%A6%E5%89%83%E5%88%80)
 
