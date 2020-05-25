@@ -1,6 +1,5 @@
-# -*- coding:utf-8 -*-
 import os
-import time
+import re
 from collections import namedtuple
 
 Addr = namedtuple('Addr', ['branch', 'file'])
@@ -27,12 +26,17 @@ class Git:
         return self._run('git push')
 
 
+def place_blank_tag(sentence):
+    return re.sub('\[.+\]\(.+\)(?!{:target="_blank"})', '\g<0>{:target="_blank"}', sentence)
+
+
 git = Git()
 git.checkout(FROM.branch)
 with open(FROM.file) as f:
     read_content = f.read()
     i = read_content.index(TAG)
-    read_content = read_content[i:]
+    read_content = place_blank_tag(read_content[i:])
+    print(read_content)
 
 git.checkout(TO.branch)
 with open(TO.file, 'r+') as f:
