@@ -30,23 +30,23 @@ def place_blank_tag(sentence):
     return re.sub('\[.+\]\(.+\)(?!{:target="_blank"})', '\g<0>{:target="_blank"}', sentence)
 
 
-git = Git()
-git.checkout(FROM.branch)
-with open(FROM.file) as f:
-    read_content = f.read()
-    i = read_content.index(TAG)
-    read_content = place_blank_tag(read_content[i:])
-    print(read_content)
+if __name__ == '__main__':
+    git = Git()
+    git.checkout(FROM.branch)
+    with open(FROM.file) as f:
+        read_content = f.read()
+        i = read_content.index(TAG)
+        read_content = place_blank_tag(read_content[i:])
 
-git.checkout(TO.branch)
-with open(TO.file, 'r+') as f:
-    write_content = f.read()
-    i = write_content.index(TAG)
-    write_content = write_content[:i] + read_content
-    f.seek(0, 0)
-    f.write(write_content)
+    git.checkout(TO.branch)
+    with open(TO.file, 'r+') as f:
+        write_content = f.read()
+        i = write_content.index(TAG)
+        write_content = write_content[:i] + read_content
+        f.seek(0, 0)
+        f.write(write_content)
 
-git.add(TO.file)
-git.commit('update from master')
-git.push()
-git.checkout(FROM.branch)
+    git.add(TO.file)
+    git.commit('update from master')
+    git.push()
+    git.checkout(FROM.branch)
