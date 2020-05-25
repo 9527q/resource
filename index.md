@@ -19,7 +19,7 @@
 
 # 工具
 
-## 在线工具
+## 网页工具
 
 - [Urban Dictionary 英文方言词典](https://www.urbandictionary.com/)
 - [万能命令](https://wanneng.run/cn/) --- 给出针对某个网站的可用工具集合
@@ -125,6 +125,12 @@
 
 # 开发
 
+- [微定时架构](https://blog.betacat.io/post/how-wecron-schedules/) --- 微定时是一个通过公众号实现定时提醒的工具，本文介绍其架构，服务端代码是开源的，使用 Django 完成。[Github](https://github.com/polyrabbit/WeCron)
+- [Valine](https://valine.js.org/) --- 一个静态网站的评论系统，不需要后端，数据储存在 LeanCloud
+- [spiderman](https://github.com/TurboWay/spiderman) --- 一个通用的分布式爬虫框架，基于 scrapy-redis，只需编写少量代码即可完成分布式爬虫抓取数据
+- [NGINX Config](https://www.digitalocean.com/community/tools/nginx) --- Nginx 的图形配置界面，点几下鼠标，自动生成配置文件，可以上传到服务器
+- [Link Lock](https://github.com/jstrieb/link-lock) --- 开源的 URL 加密服务，纯静态网页实现，采用 AES 加密算法
+
 ## Python
 
 [Django-admin-cookbook](https://books.agiliq.com/projects/django-admin-cookbook/en/latest/index.html)
@@ -149,7 +155,7 @@
 - [sojson 背景特效](https://www.sojson.com/blog/127.html)
 - [深入浅出现代Web编程](https://fullstackopen.com/zh/)
 - [uPlot](https://github.com/leeoniya/uPlot) --- 一个小（25k）而快的图表展示库
-- [js 通过 Cloudflare 免费获取请求者的所在国家和IP](https://blog.dataflowkit.com/determine-location-of-users/)
+- [js 通过 Cloudflare 免费获取请求者的所在国家和IP](https://blog.dataflowkit.com/determine-location-of-users/)  --- 例如：用于疫情、语言、价格符号、广告
 
 ## Git、GitHub
 
@@ -164,6 +170,8 @@
 
 - [书栈网 BookStack](https://www.bookstack.cn/)：各种IT开源书籍和文档分享站点，在线阅读很舒服
 - [码力全开](https://design.maliquankai.com/) --- 产品/设计师/独立开发者的资源库
+- [leetcode 前 300 题](https://leetcode.wang/) --- 每道都进行了详细通俗的分析，并且提供多种思路解法
+- [Go 语言示例教程](https://github.com/inancgumus/learngo) --- 一个 Go 语言初学者教程的示例仓库，收集了1000多个示例、练习和问题。
 
 ## 工具
 
