@@ -11,7 +11,6 @@
 
 - [敏迪选读](https://www.mindiworldnews.com/){:target="_blank"} --- 约每日更新国内外资讯
 - [阮一峰个人网站](http://www.ruanyifeng.com/home.html) --- 每周五更新[周刊](http://www.ruanyifeng.com/blog/)；[投稿处](https://github.com/ruanyf/weekly/issues){:target="_blank"}
-- [GitHub 中文排行榜](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts){:target="_blank"} --- 优秀中文项目集合；周更
 
 ## 集合
 
@@ -20,6 +19,7 @@
 - [知乎](https://www.zhihu.com/){:target="_blank"} --- 各类资源、教程
 - [Internet Archive](https://archive.org/){:target="_blank"} --- 互联网档案馆；图书、电影、音乐、应用、网站等
 - [码力全开](https://design.maliquankai.com/){:target="_blank"} --- 产品/设计师/独立开发者的资源库
+- [GitHub 中文排行榜](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts){:target="_blank"} --- 优秀中文项目集合
 
 ## 概念
 
@@ -34,8 +34,8 @@
 
 ## 动漫
 
-- [AGE动漫网](https://www.agefans.tv/) [备用](www.agefans.net){:target="_blank"}
-- [动漫岛](http://www.dmd8.com/) [备用](http://dm55.cc/){:target="_blank"}
+- [AGE 动漫网](https://www.agefans.tv/) --- [备用](www.agefans.net){:target="_blank"}
+- [动漫岛](http://www.dmd8.com/) --- [备用](http://dm55.cc/){:target="_blank"}
 
 ## 音乐
 
@@ -43,7 +43,7 @@
 
 ## 书籍
 
-- [必看网](https://www.biikan.com/){:target="_blank"} --- 书籍
+- [必看网](https://www.biikan.com/){:target="_blank"}
 - [斯诺登自传](https://a.temporaryrecord.com/){:target="_blank"}
 
 ## 素材
@@ -139,8 +139,8 @@
 
 - [最难的数独](https://www.theverge.com/tldr/2020/5/18/21262771/sudoku-puzzle-cracking-the-cryptic-watch-this-video-simon-anthony){:target="_blank"} --- 只有两个初始数字
 - [干掉犀牛角](https://animal-friendly.co/2020/05/18/secret-rhino-dehorning-programme/){:target="_blank"} --- 为防止猎杀，先干掉犀牛角，还能长出来
-- [特朗普竞选连任官网的404](https://www.donaldjtrump.com/404) --- 404页面是对手拜登的照片，说明文字是拜登在说"看来你跟我一样没找到方向"；![图片](){:target="_blank"}
-- [扎克伯格捐赠餐厅](https://tech.sina.cn/i/gj/2020-05-15/detail-iirczymk1700312.d.html){:target="_blank"} --- 扎克伯格向经常去的硅谷8家餐厅，每家捐款10万美元，条件是不得因为疫情而倒闭。
+- [特朗普竞选连任官网的404](https://www.donaldjtrump.com/404) --- 404页面是对手拜登的照片，说明文字是拜登在说"看来你跟我一样没找到方向"；[图片](https://user-images.githubusercontent.com/37435717/82882039-1922fc00-9f73-11ea-91eb-e88bf58e9ed4.png){:target="_blank"}
+- [扎克伯格捐款餐厅](https://tech.sina.cn/i/gj/2020-05-15/detail-iirczymk1700312.d.html){:target="_blank"} --- 扎克伯格向经常去的硅谷8家餐厅，每家捐款10万美元，条件是不得因为疫情而倒闭。
 
 ---
 
@@ -191,4 +191,3 @@
 - [从 0 开始学习 GitHub](https://pan.baidu.com/s/1hsn57YO){:target="_blank"} --- 中文
 - [Github 使用技巧：存储文件、项目实例](http://solutionoptimist.com/awesome-github-tricks/){:target="_blank"}
 - [GitHub 部署网站](https://blog.csdn.net/u010105970/article/details/53889297){:target="_blank"}
-查看响应中的 JSON 数据
