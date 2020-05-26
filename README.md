@@ -157,6 +157,8 @@
 - [给弱势和视力障碍人士的智能隐形眼镜](https://www.theverge.com/2020/1/16/21067683/mojo-smart-contact-lens-augmented-reality-startup) --- 一家硅谷创业公司提出智能隐形眼镜，其实是一个眼球前面的显示器，将外界影像对着眼球播放，里面有电池
 - [84岁的 iOS 开发者：若宫雅子](https://asia.nikkei.com/Business/Technology/Meet-the-84-year-old-Japanese-app-developer-who-inspired-Tim-Cook2) --- 93 年 58 岁的她从银行退休，银行送她一台个人计算机；14 年她有了智能手机，想开发一款专为老人服务的手机游戏；采纳 App 开发公司总裁的建议自己开发并通过 Skype 向他请教；17年游戏发布并受邀参加 WWDC
 - [可能被比赛禁用的跑鞋](https://www.thestreet.com/investing/nike-rivals-gain-amid-reports-vaporfly-shoes-face-iaaf-ban) --- 国际田联打算禁止耐克公司的 Vaporfly Next 跑鞋；肯尼亚选手就是穿这种鞋，马拉松成绩跑进了两小时；据说，该鞋可以提供更好的弹力
+- [安乐死过山车](https://en.wikipedia.org/wiki/Euthanasia_Coaster) --- 通过加速度让大脑缺氧，然后死亡
+- [我们会用尽氦气吗？](https://www.thoughtco.com/will-we-run-out-of-helium-3975959) --- 惰性气体氦太轻容易流失到太空
 
 ## 言论
 
@@ -200,6 +202,7 @@
 - [苹果开发者可能需要下载的各个版本的应用、系统、开发工具等](https://developer.apple.com/download/more/)
 - [Docker 镜像构建教程：减小镜像体积（中文）](https://fuckcloudnative.io/posts/docker-images-part1-reducing-image-size/)
 - [该仓库作者校招时面试的前端复习笔记](https://github.com/CavsZhouyou/Front-End-Interview-Notebook)
+- [Go 语言 7 天实现一个项目](https://github.com/geektutu/7days-golang)
 
 ## web
 
