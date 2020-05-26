@@ -148,7 +148,7 @@
 - [最难的数独](https://www.theverge.com/tldr/2020/5/18/21262771/sudoku-puzzle-cracking-the-cryptic-watch-this-video-simon-anthony) --- 只有两个初始数字
 - [干掉犀牛角](https://animal-friendly.co/2020/05/18/secret-rhino-dehorning-programme/) --- 为防止猎杀，先干掉犀牛角，还能长出来
 - [特朗普竞选连任官网的404](https://www.donaldjtrump.com/404) --- 404页面是对手拜登的照片，说明文字是拜登在说"看来你跟我一样没找到方向"；[图片](https://user-images.githubusercontent.com/37435717/82882039-1922fc00-9f73-11ea-91eb-e88bf58e9ed4.png)
-- [扎克伯格捐赠餐厅](https://tech.sina.cn/i/gj/2020-05-15/detail-iirczymk1700312.d.html) --- 扎克伯格向经常去的硅谷8家餐厅，每家捐款10万美元，条件是不得因为疫情而倒闭。
+- [扎克伯格捐款餐厅](https://tech.sina.cn/i/gj/2020-05-15/detail-iirczymk1700312.d.html) --- 扎克伯格向经常去的硅谷8家餐厅，每家捐款10万美元，条件是不得因为疫情而倒闭。
 
 ---
 
