@@ -158,6 +158,34 @@
 - [84岁的 iOS 开发者：若宫雅子](https://asia.nikkei.com/Business/Technology/Meet-the-84-year-old-Japanese-app-developer-who-inspired-Tim-Cook2) --- 93 年 58 岁的她从银行退休，银行送她一台个人计算机；14 年她有了智能手机，想开发一款专为老人服务的手机游戏；采纳 App 开发公司总裁的建议自己开发并通过 Skype 向他请教；17年游戏发布并受邀参加 WWDC
 - [可能被比赛禁用的跑鞋](https://www.thestreet.com/investing/nike-rivals-gain-amid-reports-vaporfly-shoes-face-iaaf-ban) --- 国际田联打算禁止耐克公司的 Vaporfly Next 跑鞋；肯尼亚选手就是穿这种鞋，马拉松成绩跑进了两小时；据说，该鞋可以提供更好的弹力
 
+## 言论
+
+> 如果有人在电话里说有害的言论，你不会让电话公司负责。我们也应该这样对待网站。
+
+—— [扎克伯格](https://www.reuters.com/article/us-germany-security-facebook-idUSKBN2090MA)，谈人们应该怎么看待 Facebook
+
+> 一个新观念取得胜利，并不是因为说服了它的反对者，而是因为反对者最终都死了，并且熟悉这种观念的新一代人成长了。
+
+—— [普朗克](https://en.wikipedia.org/wiki/Planck%27s_principle)，德国物理学家
+
+> 我原想为自己的著作起名为《算法分析》，出版商说："那将永远卖不出去"。
+
+—— [高德纳](https://www.quantamagazine.org/computer-scientist-donald-knuth-cant-stop-telling-stories-20200416/)，《计算机编程艺术》的作者
+
+> 我相信，只有六个人读完了我的书《数学原理》，后来其中三人被希特勒杀害。
+
+—— [伯特兰·罗素](https://www.economist.com/books-and-arts/2020/04/18/listen-to-bertrand-russell-the-english-voltaire)，英国哲学家
+
+> 如果你经营酒店，退房时间放宽30分钟。如果你经营餐馆，给客人提供免费的小点心。如果你经营面包店，柜台上放一些额外的饼干。
+> 
+> 这些短期成本会创造顾客长期的忠诚度。
+
+-- David Perell
+
+> 目前预测，北极可能在2040年，出现第一个无冰的夏天。
+
+—— [《科学家北冰洋的漂流实验》](https://www.npr.org/2019/12/04/784691513/polar-bears-ice-cracks-and-isolation-scientists-drift-across-the-arctic-ocean)
+
 ---
 
 # 开发
