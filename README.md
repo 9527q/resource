@@ -158,7 +158,7 @@
 - [书栈网 BookStack](https://www.bookstack.cn/)：各种IT开源书籍和文档分享站点，在线阅读很舒服
 - [码力全开](https://design.maliquankai.com/) --- 产品/设计师/独立开发者的资源库
 - [leetcode 前 300 题](https://leetcode.wang/) --- 每道都进行了详细通俗的分析，并且提供多种思路解法
-- [Go 语言示例教程](https://github.com/inancgumus/learngo) --- 一个 Go 语言初学者教程的示例仓库，收集了1000多个示例、练习和问题。
+- [Go 语言示例教程](https://github.com/inancgumus/learngo) --- 一个 Go 语言初学者教程的示例仓库，收集了1000多个示例、练习和问题
 - [苹果开发者可能需要下载的各个版本的应用、系统、开发工具等](https://developer.apple.com/download/more/)
 - [Docker 镜像构建教程：减小镜像体积（中文）](https://fuckcloudnative.io/posts/docker-images-part1-reducing-image-size/)
 - [该仓库作者校招时面试的前端复习笔记](https://github.com/CavsZhouyou/Front-End-Interview-Notebook)
