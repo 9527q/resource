@@ -42,8 +42,8 @@
 
 ## 动漫
 
-- [AGE动漫网](https://www.agefans.tv/) [备用](www.agefans.net)
-- [动漫岛](http://www.dmd8.com/) [备用](http://dm55.cc/)
+- [AGE 动漫网](https://www.agefans.tv/) --- [备用](www.agefans.net)
+- [动漫岛](http://www.dmd8.com/) --- [备用](http://dm55.cc/)
 
 ## 音乐
 
