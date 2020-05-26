@@ -51,7 +51,7 @@
 
 ## 书籍
 
-- [必看网](https://www.biikan.com/) --- 书籍
+- [必看网](https://www.biikan.com/)
 - [斯诺登自传](https://a.temporaryrecord.com/)
 
 ## 素材
