@@ -117,6 +117,8 @@
 
 - [中文文案排版指北](https://github.com/mzlogin/chinese-copywriting-guidelines)
 - [Markdown 语法说明(简体中文版)](https://www.appinn.com/markdown/#list)
+- [如何阅读科研论文](https://blog.csdn.net/qianlong4526888/article/details/11269129)
+- [如何成功](https://threadreaderapp.com/thread/1214274038933020672.html)
 
 ## 办公
 
@@ -218,6 +220,10 @@
 ## 爬虫
 
 - [spiderman](https://github.com/TurboWay/spiderman) --- 一个通用的分布式爬虫框架，基于 scrapy-redis，只需编写少量代码即可完成分布式爬虫抓取数据
+
+## AI
+
+[动手学深度学习](https://zh.d2l.ai/index.html) --- 面向中文读者的能运行、可讨论的深度学习教科书
 
 ## 工具
 
