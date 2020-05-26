@@ -33,21 +33,26 @@ def place_blank_tag(sentence):
 
 if __name__ == '__main__':
     git = Git()
+
+    # 读取内容
     git.checkout(FROM.branch)
-    with open(FROM.file) as f:
-        read_content = f.read()
-        i = read_content.index(TAG)
-        read_content = place_blank_tag(read_content[i:])
+    with open(FROM.file) as f1:
+        f1_content = f1.read()
+        i = f1_content.index(TAG)
+        f1_content = place_blank_tag(f1_content[i:])
 
+    # 更新到目标文件中
     git.checkout(TO.branch)
-    with open(TO.file, 'r+') as f:
-        write_content = f.read()
-        i = write_content.index(TAG)
-        write_content = write_content[:i] + read_content
-        f.seek(0, 0)
-        f.write(write_content)
+    with open(TO.file, 'r+') as f2:
+        f2_content = f2.read()
+        i = f2_content.index(TAG)
+        write_content = f2_content[:i] + f1_content
+        f2.seek(0, 0)
+        f2.write(write_content)
 
+    # 提交改动
     git.add(TO.file)
     git.commit('update from master')
     git.push()
+
     git.checkout(FROM.branch)
