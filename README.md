@@ -19,7 +19,6 @@
 
 - [敏迪选读](https://www.mindiworldnews.com/) --- 约每日更新国内外资讯
 - [阮一峰个人网站](http://www.ruanyifeng.com/home.html) --- 每周五更新[周刊](http://www.ruanyifeng.com/blog/)；[投稿处](https://github.com/ruanyf/weekly/issues)
-- [GitHub 中文排行榜](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) --- 优秀中文项目集合；周更
 
 ## 集合
 
@@ -28,6 +27,7 @@
 - [知乎](https://www.zhihu.com/) --- 各类资源、教程
 - [Internet Archive](https://archive.org/) --- 互联网档案馆；图书、电影、音乐、应用、网站等
 - [码力全开](https://design.maliquankai.com/) --- 产品/设计师/独立开发者的资源库
+- [GitHub 中文排行榜](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) --- 优秀中文项目集合
 
 ## 概念
 
