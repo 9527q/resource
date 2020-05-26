@@ -50,7 +50,7 @@ if __name__ == '__main__':
         f2.seek(0, 0)
         f2.write(write_content)
 
-    # 提交改动
+    # 提交改动（没有改动也无妨）
     git.add(TO.file)
     git.commit('update from master')
     git.push()
