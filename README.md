@@ -52,6 +52,10 @@
 - [必看网](https://www.biikan.com/)
 - [斯诺登自传](https://a.temporaryrecord.com/)
 
+## 文章
+
+- [我的外包经验：印度、中国和菲律宾（译文）](http://www.ruanyifeng.com/blog/2020/02/software-outsourcing.html)
+
 ## 素材
 
 - [unDraw](https://undraw.co/illustrations) --- 现代、简约风格的 svg 插图资源；开源免费
