@@ -6,7 +6,7 @@ Addr = namedtuple('Addr', ['branch', 'file'])
 
 FROM = Addr('master', 'README.md')
 TO = Addr('gh-pages', 'index.md')
-TAG = '资源'
+TAG = '</div>'
 
 
 class Git:
