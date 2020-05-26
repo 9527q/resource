@@ -29,7 +29,8 @@
 
 ## 概念
 
-- [哲学剃刀](https://zh.wikipedia.org/wiki/%E5%93%B2%E5%AD%A6%E5%89%83%E5%88%80)
+- [哲学剃刀](https://zh.wikipedia.org/wiki/%E5%93%B2%E5%AD%A6%E5%89%83%E5%88%80) --- 剃刀在哲学中的胜利
+- [九龙城寨](https://www.atlasobscura.com/articles/kowloon-walled-city) --- 香港一个已经拆除的居民区
 
 ## 影视
 
@@ -152,6 +153,10 @@
 - [特朗普竞选连任官网的404](https://www.donaldjtrump.com/404) --- 404页面是对手拜登的照片，说明文字是拜登在说"看来你跟我一样没找到方向"；[图片](https://user-images.githubusercontent.com/37435717/82882039-1922fc00-9f73-11ea-91eb-e88bf58e9ed4.png)
 - [扎克伯格捐款餐厅](https://tech.sina.cn/i/gj/2020-05-15/detail-iirczymk1700312.d.html) --- 扎克伯格向经常去的硅谷8家餐厅，每家捐款10万美元，条件是不得因为疫情而倒闭
 - [天然拱桥协会](https://www.naturalarches.org/big9.htm) --- 该协会致力于发现世界上天然形成的拱桥
+- [红外线血管成像仪](http://news.workercn.cn/32846/202003/07/200307081252899.shtml) --- 西安一家科研机构研制出红外线血管成像仪，利用血管中血红蛋白队近红外光的吸收率与其他组织不同的原理，将皮下血管原位投影显示在皮肤表面，使医护人员能够清晰识别患者皮下 8～10 毫米的血管
+- [给弱势和视力障碍人士的智能隐形眼镜](https://www.theverge.com/2020/1/16/21067683/mojo-smart-contact-lens-augmented-reality-startup) --- 一家硅谷创业公司提出智能隐形眼镜，其实是一个眼球前面的显示器，将外界影像对着眼球播放，里面有电池
+- [84岁的 iOS 开发者：若宫雅子](https://asia.nikkei.com/Business/Technology/Meet-the-84-year-old-Japanese-app-developer-who-inspired-Tim-Cook2) --- 93 年 58 岁的她从银行退休，银行送她一台个人计算机；14 年她有了智能手机，想开发一款专为老人服务的手机游戏；采纳 App 开发公司总裁的建议自己开发并通过 Skype 向他请教；17年游戏发布并受邀参加 WWDC
+- [可能被比赛禁用的跑鞋](https://www.thestreet.com/investing/nike-rivals-gain-amid-reports-vaporfly-shoes-face-iaaf-ban) --- 国际田联打算禁止耐克公司的 Vaporfly Next 跑鞋；肯尼亚选手就是穿这种鞋，马拉松成绩跑进了两小时；据说，该鞋可以提供更好的弹力
 
 ---
 
