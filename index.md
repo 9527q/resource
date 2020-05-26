@@ -10,7 +10,7 @@
 ## 持续发布
 
 - [敏迪选读](https://www.mindiworldnews.com/){:target="_blank"} --- 约每日更新国内外资讯
-- [阮一峰个人网站](http://www.ruanyifeng.com/home.html) --- 每周五更新[周刊](http://www.ruanyifeng.com/blog/)；[投稿处](https://github.com/ruanyf/weekly/issues){:target="_blank"}
+- [阮一峰个人网站](http://www.ruanyifeng.com/home.html){:target="_blank"} --- 每周五更新[周刊](http://www.ruanyifeng.com/blog/){:target="_blank"}；[投稿处](https://github.com/ruanyf/weekly/issues){:target="_blank"}
 
 ## 集合
 
@@ -34,8 +34,8 @@
 
 ## 动漫
 
-- [AGE 动漫网](https://www.agefans.tv/) --- [备用](www.agefans.net){:target="_blank"}
-- [动漫岛](http://www.dmd8.com/) --- [备用](http://dm55.cc/){:target="_blank"}
+- [AGE 动漫网](https://www.agefans.tv/){:target="_blank"} --- [备用](www.agefans.net){:target="_blank"}
+- [动漫岛](http://www.dmd8.com/){:target="_blank"} --- [备用](http://dm55.cc/){:target="_blank"}
 
 ## 音乐
 
@@ -71,12 +71,12 @@
 - [微博党](http://weibodang.cn/){:target="_blank"} --- 网页截图/密码生成/视频解析
 - [奶牛快传](https://cowtransfer.com/){:target="_blank"} --- 文件传输及存储服务
 - [彩虹屁](https://chp.shadiao.app/){:target="_blank"}
-- [甜言蜜语](https://github.com/zerosoul/honeyed-words-generator) 土味情话生成，[网页](https://works.yangerxiao.com/honeyed-words-generator/){:target="_blank"}
+- [甜言蜜语](https://github.com/zerosoul/honeyed-words-generator){:target="_blank"} 土味情话生成，[网页](https://works.yangerxiao.com/honeyed-words-generator/){:target="_blank"}
 - [智图压缩](https://zhitu.isux.us/){:target="_blank"}
 - [File2HD](http://www.file2hd.com/){:target="_blank"} --- 提供给定网页所有文件的下载
-- [全世界自来水能否安全饮用查询](https://www.iswatersafetodrink.in/) --- [中国](https://www.iswatersafetodrink.in/China){:target="_blank"}
+- [全世界自来水能否安全饮用查询](https://www.iswatersafetodrink.in/){:target="_blank"} --- [中国](https://www.iswatersafetodrink.in/China){:target="_blank"}
 - [Detexify 网页版](http://detexify.kirelabs.org/classify.html){:target="_blank"} --- 根据画出的单个字符推断其 Latex 代码
-- [GOSSIP](https://pearmini.gitee.io/gossip/) --- 炫酷的创建类 PPT 内容，在网页播放 [GitHub](https://github.com/pearmini/gossip){:target="_blank"}
+- [GOSSIP](https://pearmini.gitee.io/gossip/){:target="_blank"} --- 炫酷的创建类 PPT 内容，在网页播放 [GitHub](https://github.com/pearmini/gossip){:target="_blank"}
 - [Link Lock](https://github.com/jstrieb/link-lock){:target="_blank"} --- 开源的 URL 加密服务，纯静态网页实现，采用 AES 加密算法
 - [将 Markdown 转为思维导图的开源工具](https://markmap.js.org/){:target="_blank"}
 
@@ -100,7 +100,7 @@
 
 ## 小程序公众号
 
-- [微定时架构](https://blog.betacat.io/post/how-wecron-schedules/) --- 微定时是一个通过公众号实现定时提醒的工具，本文介绍其架构，服务端代码是开源的，使用 Django 完成。[Github](https://github.com/polyrabbit/WeCron){:target="_blank"}
+- [微定时架构](https://blog.betacat.io/post/how-wecron-schedules/){:target="_blank"} --- 微定时是一个通过公众号实现定时提醒的工具，本文介绍其架构，服务端代码是开源的，使用 Django 完成。[Github](https://github.com/polyrabbit/WeCron){:target="_blank"}
 
 ## 教程
 
@@ -126,12 +126,12 @@
 ## 游戏
 
 - [新合金弹头](http://www.4399.com/flash/1809.htm#search3){:target="_blank"} --- 网页
-- [Euclidea](https://www.euclidea.xyz/en/game/packs/) --- 平面几何作图游戏(有app){:target="_blank"}
+- [Euclidea](https://www.euclidea.xyz/en/game/packs/){:target="_blank"} --- 平面几何作图游戏(有app)
 - [CodeTank](http://codetank.alloyteam.com/){:target="_blank"}
 - [极客战记](https://codecombat.163.com){:target="_blank"}
 - [CodeWar](https://www.codewar.cn/home){:target="_blank"}
 - [飞行模拟器](https://www.geo-fs.com/int/cn/index.php){:target="_blank"}
-- [文字修仙](https://louisalflame.github.io/CFantasyClick/index.html) --- console外挂 `for(var i = 0; i< 50000; i++)**$(".btn.btn-lg.btn-default")**.click(){:target="_blank"}**`
+- [文字修仙](https://louisalflame.github.io/CFantasyClick/index.html){:target="_blank"} --- console外挂 `for(var i = 0; i< 50000; i++)**$(".btn.btn-lg.btn-default")**.click()**`
 - [yorg](https://yorg.io/){:target="_blank"} --- 塔防
 - [yorg3](https://yorg3.io/){:target="_blank"} --- 塔防
 
@@ -139,7 +139,7 @@
 
 - [最难的数独](https://www.theverge.com/tldr/2020/5/18/21262771/sudoku-puzzle-cracking-the-cryptic-watch-this-video-simon-anthony){:target="_blank"} --- 只有两个初始数字
 - [干掉犀牛角](https://animal-friendly.co/2020/05/18/secret-rhino-dehorning-programme/){:target="_blank"} --- 为防止猎杀，先干掉犀牛角，还能长出来
-- [特朗普竞选连任官网的404](https://www.donaldjtrump.com/404) --- 404页面是对手拜登的照片，说明文字是拜登在说"看来你跟我一样没找到方向"；[图片](https://user-images.githubusercontent.com/37435717/82882039-1922fc00-9f73-11ea-91eb-e88bf58e9ed4.png){:target="_blank"}
+- [特朗普竞选连任官网的404](https://www.donaldjtrump.com/404){:target="_blank"} --- 404页面是对手拜登的照片，说明文字是拜登在说"看来你跟我一样没找到方向"；[图片](https://user-images.githubusercontent.com/37435717/82882039-1922fc00-9f73-11ea-91eb-e88bf58e9ed4.png){:target="_blank"}
 - [扎克伯格捐款餐厅](https://tech.sina.cn/i/gj/2020-05-15/detail-iirczymk1700312.d.html){:target="_blank"} --- 扎克伯格向经常去的硅谷8家餐厅，每家捐款10万美元，条件是不得因为疫情而倒闭。
 
 ---
