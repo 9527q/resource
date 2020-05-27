@@ -190,6 +190,14 @@
 
 —— [《科学家北冰洋的漂流实验》](https://www.npr.org/2019/12/04/784691513/polar-bears-ice-cracks-and-isolation-scientists-drift-across-the-arctic-ocean)
 
+> 形势好时赶路，形势差时学习
+
+—— wait 于20年新型肺炎远程工作日报中写道
+
+> 除非你做点什么，否则任何事情都不会改变。
+
+—— [麦克·罗宾斯](https://mike-robbins.com/book/)
+
 ---
 
 # 开发
