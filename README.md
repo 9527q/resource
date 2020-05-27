@@ -30,7 +30,6 @@
 
 ## 概念
 
-- [哲学剃刀](https://zh.wikipedia.org/wiki/%E5%93%B2%E5%AD%A6%E5%89%83%E5%88%80) --- 剃刀在哲学中的胜利
 - [九龙城寨](https://www.atlasobscura.com/articles/kowloon-walled-city) --- 香港一个已经拆除的居民区
 
 ## 影视
@@ -165,22 +164,6 @@
 
 ## 言论
 
-> 如果有人在电话里说有害的言论，你不会让电话公司负责。我们也应该这样对待网站。
-
-—— [扎克伯格](https://www.reuters.com/article/us-germany-security-facebook-idUSKBN2090MA)，谈人们应该怎么看待 Facebook
-
-> 一个新观念取得胜利，并不是因为说服了它的反对者，而是因为反对者最终都死了，并且熟悉这种观念的新一代人成长了。
-
-—— [普朗克](https://en.wikipedia.org/wiki/Planck%27s_principle)，德国物理学家
-
-> 我原想为自己的著作起名为《算法分析》，出版商说："那将永远卖不出去"。
-
-—— [高德纳](https://www.quantamagazine.org/computer-scientist-donald-knuth-cant-stop-telling-stories-20200416/)，《计算机编程艺术》的作者
-
-> 我相信，只有六个人读完了我的书《数学原理》，后来其中三人被希特勒杀害。
-
-—— [伯特兰·罗素](https://www.economist.com/books-and-arts/2020/04/18/listen-to-bertrand-russell-the-english-voltaire)，英国哲学家
-
 > 如果你经营酒店，退房时间放宽30分钟。如果你经营餐馆，给客人提供免费的小点心。如果你经营面包店，柜台上放一些额外的饼干。
 > 
 > 这些短期成本会创造顾客长期的忠诚度。
@@ -190,14 +173,6 @@
 > 目前预测，北极可能在2040年，出现第一个无冰的夏天。
 
 —— [《科学家北冰洋的漂流实验》](https://www.npr.org/2019/12/04/784691513/polar-bears-ice-cracks-and-isolation-scientists-drift-across-the-arctic-ocean)
-
-> 形势好时赶路，形势差时学习
-
-—— wait 于20年新型肺炎远程工作日报中写道
-
-> 除非你做点什么，否则任何事情都不会改变。
-
-—— [麦克·罗宾斯](https://mike-robbins.com/book/)
 
 ---
 
