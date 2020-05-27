@@ -2,10 +2,7 @@
 ![](https://img.shields.io/github/repo-size/9527q/resource.svg?label=Repo%20size&style=flat-square)
 
 <div align="center">
-  <img
-    src="http://ww1.sinaimg.cn/large/0062WsWagy1gdskvdkox7j30hs0hsq3i.jpg" 
-    alt="Let's guide each other in the universe of the Internet" 
-    height="150" width="150">
+  <img src="http://ww1.sinaimg.cn/large/0062WsWagy1gdskvdkox7j30hs0hsq3i.jpg" alt="Let's guide each other in the universe of the Internet" height="150" width="150">
 </div>
 <div align="center">
   <a href="https://9527q.github.io/resource/">
