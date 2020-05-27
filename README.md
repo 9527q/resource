@@ -17,6 +17,7 @@
 
 - [敏迪选读](https://www.mindiworldnews.com/) --- 约每日更新国内外资讯
 - [阮一峰个人网站](http://www.ruanyifeng.com/home.html) --- 每周五更新[周刊](http://www.ruanyifeng.com/blog/)；[投稿处](https://github.com/ruanyf/weekly/issues)
+- [HelloGithub](https://www.hellogithub.com/) --- GitHub 上入门项目；每月 28 号更新
 
 ## 集合
 
