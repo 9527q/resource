@@ -89,6 +89,7 @@
 - [GOSSIP](https://pearmini.gitee.io/gossip/) --- 炫酷的创建类 PPT 内容，在网页播放 [GitHub](https://github.com/pearmini/gossip)
 - [Link Lock](https://github.com/jstrieb/link-lock) --- 开源的 URL 加密服务，纯静态网页实现，采用 AES 加密算法
 - [将 Markdown 转为思维导图的开源工具](https://markmap.js.org/)
+- [卡通头像生成](https://getavataaars.com/)
 
 ## 浏览器插件
 
@@ -188,6 +189,7 @@
 - [Docker 镜像构建教程：减小镜像体积（中文）](https://fuckcloudnative.io/posts/docker-images-part1-reducing-image-size/)
 - [该仓库作者校招时面试的前端复习笔记](https://github.com/CavsZhouyou/Front-End-Interview-Notebook)
 - [Go 语言 7 天实现一个项目](https://github.com/geektutu/7days-golang)
+- [免费的编程中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
 
 ## web
 
@@ -199,6 +201,8 @@
 - [CSS 实现悬浮效果](https://mp.weixin.qq.com/s?__biz=MjM5NTY1MjY0MQ==&mid=2650742344&idx=3&sn=fdafa8bec7ab21dfbacb29ea2d605da5&chksm=befe8b0689890210df8483d008a5a354f988247d68f5c023df5865d985437119a88092ab7535&mpshare=1&scene=1&srcid=08174UHCvIUBYXARiory21k9#rd)
 - [Valine](https://valine.js.org/) --- 一个静态网站的评论系统，不需要后端，数据储存在 LeanCloud
 - [NGINX Config](https://www.digitalocean.com/community/tools/nginx) --- Nginx 的图形配置界面，点几下鼠标，自动生成配置文件，可以上传到服务器
+- [typical](https://github.com/camwiegert/typical) --- 零依赖、仅 400 字节的输入动画库
+- [FastAPI](https://github.com/tiangolo/fastapi) --- Python 的高性能 API 框架
 
 ## 爬虫
 
@@ -207,6 +211,10 @@
 ## AI
 
 [动手学深度学习](https://zh.d2l.ai/index.html) --- 面向中文读者的能运行、可讨论的深度学习教科书
+
+## 算法
+
+[scikit-opt](https://github.com/guofei9987/scikit-opt) --- 一个封装了 7 种启发式算法的 Python 代码库。分别是：差分进化算法、遗传算法、粒子群算法、模拟退火算法、蚁群算法、鱼群算法、免疫优化算法
 
 ## 工具
 
