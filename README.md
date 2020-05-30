@@ -226,6 +226,10 @@
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
 - [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=zh-CN) --- 校验、查看响应中的 JSON 数据
 - [Rete.js：可视化编程的 JS 框架](https://github.com/retejs/rete)
+- [面向开发者的搜索引擎](https://quickref.dev/)
+- [使用redis实现分布式锁](https://redis.io/topics/distlock)
+- [对redis分布式锁的质疑](http://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
+- [redis作者对质疑的回应](http://antirez.com/news/101)
 
 ### Git、GitHub
 
