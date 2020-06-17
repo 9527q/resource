@@ -86,6 +86,7 @@
 - [File2HD](http://www.file2hd.com/) --- 提供给定网页所有文件的下载
 - [全世界自来水能否安全饮用查询](https://www.iswatersafetodrink.in/) --- [中国](https://www.iswatersafetodrink.in/China)
 - [Detexify 网页版](http://detexify.kirelabs.org/classify.html) --- 根据画出的单个字符推断其 Latex 代码
+- [LATEX 在线公式编辑转图片](https://latex.vimsky.com/)
 - [GOSSIP](https://pearmini.gitee.io/gossip/) --- 炫酷的创建类 PPT 内容，在网页播放 [GitHub](https://github.com/pearmini/gossip)
 - [Link Lock](https://github.com/jstrieb/link-lock) --- 开源的 URL 加密服务，纯静态网页实现，采用 AES 加密算法
 - [将 Markdown 转为思维导图的开源工具](https://markmap.js.org/)
@@ -108,6 +109,8 @@
 - [eZip](https://ezip.awehunt.com/) --- 专为 macOS 而设计的压缩软件；免费
 - [最美应用](http://zuimeia.com/)
 - [cpolar](https://dashboard.cpolar.com/get-started) --- 内网穿透
+- [GitBook 文档](https://gitbookio.gitbooks.io/documentation/index.html)
+- [GitBook 插件](http://gitbook.zhangjikai.com/plugins.html)
 
 ## 小程序公众号
 
@@ -190,6 +193,8 @@
 - [该仓库作者校招时面试的前端复习笔记](https://github.com/CavsZhouyou/Front-End-Interview-Notebook)
 - [Go 语言 7 天实现一个项目](https://github.com/geektutu/7days-golang)
 - [免费的编程中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
+- [介绍设计模式](https://refactoringguru.cn/design-patterns)
+- [介绍作者强烈推荐的数据科学家路线课程](https://davidadrian.cc/top-courses-data-science/)
 
 ## web
 
@@ -203,6 +208,7 @@
 - [NGINX Config](https://www.digitalocean.com/community/tools/nginx) --- Nginx 的图形配置界面，点几下鼠标，自动生成配置文件，可以上传到服务器
 - [typical](https://github.com/camwiegert/typical) --- 零依赖、仅 400 字节的输入动画库
 - [FastAPI](https://github.com/tiangolo/fastapi) --- Python 的高性能 API 框架
+- [function-plot](https://mauriciopoppe.github.io/function-plot/)
 
 ## 爬虫
 
