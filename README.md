@@ -195,6 +195,7 @@
 - [免费的编程中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
 - [介绍设计模式](https://refactoringguru.cn/design-patterns)
 - [介绍作者强烈推荐的数据科学家路线课程](https://davidadrian.cc/top-courses-data-science/)
+- [谷歌“厕所文”：什么时候写注释](https://testing.googleblog.com/2017/07/code-health-to-comment-or-not-to-comment.html)
 
 ## web
 
