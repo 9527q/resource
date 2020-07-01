@@ -14,7 +14,7 @@
 
 ## 持续发布
 
-- [敏迪选读](https://www.mindiworldnews.com/) --- 约每日更新国内外资讯
+- [敏迪选读](https://www.mindiworldnews.com/) --- 约每日更新国内外资讯及看法
 - [阮一峰个人网站](http://www.ruanyifeng.com/home.html) --- 每周五更新[周刊](http://www.ruanyifeng.com/blog/)；[投稿处](https://github.com/ruanyf/weekly/issues)
 - [HelloGithub](https://www.hellogithub.com/) --- GitHub 上入门项目；每月 28 号更新
 
@@ -91,6 +91,8 @@
 - [Link Lock](https://github.com/jstrieb/link-lock) --- 开源的 URL 加密服务，纯静态网页实现，采用 AES 加密算法
 - [将 Markdown 转为思维导图的开源工具](https://markmap.js.org/)
 - [卡通头像生成](https://getavataaars.com/)
+- [浏览器网络插件](https://chrome.google.com/webstore/detail/astar-vpn-free-and-fast-v/jajilbjjinjmgcibalaakngmkilboobh)
+- 
 
 ## 浏览器插件
 
@@ -138,6 +140,7 @@
 - [查无此人](https://thispersondoesnotexist.com/) --- 每次刷新网站，得到一张 AI 生成的人脸照片
 - [煎蛋](http://jandan.net/)
 - [PIECES 拼图（30 个 CSS 碎片进行拼图，呈现 30 种濒临灭绝的动物）](http://www.species-in-pieces.com/)
+- [星链计划以发射卫星实时位置图](https://satellitemap.space/indexA.html)
 
 ## 游戏
 
@@ -150,6 +153,7 @@
 - [文字修仙](https://louisalflame.github.io/CFantasyClick/index.html) --- console外挂 `for(var i = 0; i< 50000; i++)**$(".btn.btn-lg.btn-default")**.click()**`
 - [yorg](https://yorg.io/) --- 塔防
 - [yorg3](https://yorg3.io/) --- 塔防
+- https://mp.weixin.qq.com/s/7XFIIjypFI9vtd34HQWP7Q
 
 ## 有意思的事
 
@@ -164,6 +168,8 @@
 - [可能被比赛禁用的跑鞋](https://www.thestreet.com/investing/nike-rivals-gain-amid-reports-vaporfly-shoes-face-iaaf-ban) --- 国际田联打算禁止耐克公司的 Vaporfly Next 跑鞋；肯尼亚选手就是穿这种鞋，马拉松成绩跑进了两小时；据说，该鞋可以提供更好的弹力
 - [安乐死过山车](https://en.wikipedia.org/wiki/Euthanasia_Coaster) --- 通过加速度让大脑缺氧，然后死亡
 - [我们会用尽氦气吗？](https://www.thoughtco.com/will-we-run-out-of-helium-3975959) --- 惰性气体氦太轻容易流失到太空
+- [特殊展示符号的来源](https://mp.weixin.qq.com/s/SR27Cf8sUPGHzgc3i3xj_Q)
+- [算法可视化](https://mp.weixin.qq.com/s/rUQEymRL5v82WWUwOErJPA)
 
 ## 言论
 
@@ -178,6 +184,8 @@
 —— [《科学家北冰洋的漂流实验》](https://www.npr.org/2019/12/04/784691513/polar-bears-ice-cracks-and-isolation-scientists-drift-across-the-arctic-ocean)
 
 [如何认清问题](https://developer.aliyun.com/article/738121?spm=a1z389.11499242.0.0.65452413JIV3mg&utm_content=g_1000092000)
+
+[怎样改变自己](https://mp.weixin.qq.com/s/nln8TOBu5j6OL9hF2gFfkQ)
 
 ---
 
@@ -198,6 +206,7 @@
 - [介绍设计模式](https://refactoringguru.cn/design-patterns)
 - [介绍作者强烈推荐的数据科学家路线课程](https://davidadrian.cc/top-courses-data-science/)
 - [谷歌“厕所文”：什么时候写注释](https://testing.googleblog.com/2017/07/code-health-to-comment-or-not-to-comment.html)
+- [8 Hacks For Your Next Tech Resume](https://dev.to/gemography/common-mistakes-in-dev-cvs-2a17)
 
 ## web
 
@@ -248,3 +257,12 @@
 - [从 0 开始学习 GitHub](https://pan.baidu.com/s/1hsn57YO) --- 中文
 - [Github 使用技巧：存储文件、项目实例](http://solutionoptimist.com/awesome-github-tricks/)
 - [GitHub 部署网站](https://blog.csdn.net/u010105970/article/details/53889297)
+
+## 概念介绍
+
+- [一致性哈希算法](https://mp.weixin.qq.com/s/i_uCrZMdfm7UXt9aZF8BXg)
+- [Celery](https://mp.weixin.qq.com/s/w63Ut5zZjlOypvrhO7YWIA)
+
+## 面试
+
+- https://mp.weixin.qq.com/s/nZnkDsrnzXTfoFh3de0Vcg
