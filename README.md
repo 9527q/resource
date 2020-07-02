@@ -26,6 +26,7 @@
 - [Internet Archive](https://archive.org/) --- 互联网档案馆；图书、电影、音乐、应用、网站等
 - [码力全开](https://design.maliquankai.com/) --- 产品/设计师/独立开发者的资源库
 - [GitHub 中文排行榜](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) --- 优秀中文项目集合
+- [MIT OCW](https://ocw.mit.edu/)
 
 ## 概念
 
