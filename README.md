@@ -17,6 +17,7 @@
 - [敏迪选读](https://www.mindiworldnews.com/) --- 约每日更新国内外资讯及看法
 - [阮一峰个人网站](http://www.ruanyifeng.com/home.html) --- 每周五更新[周刊](http://www.ruanyifeng.com/blog/)；[投稿处](https://github.com/ruanyf/weekly/issues)
 - [HelloGithub](https://www.hellogithub.com/) --- GitHub 上入门项目；每月 28 号更新
+- [今日热榜](https://tophub.today/)
 
 ## 集合
 
@@ -27,10 +28,14 @@
 - [码力全开](https://design.maliquankai.com/) --- 产品/设计师/独立开发者的资源库
 - [GitHub 中文排行榜](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) --- 优秀中文项目集合
 - [MIT OCW](https://ocw.mit.edu/)
+- [Complete Knot List 绳结大全](https://www.animatedknots.com/complete-knot-list)
+- [新趣集](https://xinquji.com/)
+- [反向面试](https://github.com/yifeikong/reverse-interview-zh)
 
 ## 概念
 
 - [九龙城寨](https://www.atlasobscura.com/articles/kowloon-walled-city) --- 香港一个已经拆除的居民区
+- [费米问题的回答](https://blog.csdn.net/yangzhongblog/article/details/103154699)
 
 ## 影视
 
@@ -38,6 +43,7 @@
 - [外剧网](https://www.waijutv.com/)
 - [电影猫](http://www.mvcat.com/) --- 从各种分类角度推荐好电影
 - [音范丝](http://www.yinfans.me/) --- 高清4k蓝光资源下载
+- [《长安十二时辰》历史知识](https://v.youku.com/v_show/id_XNDMwNjQ5Nzg3Ng==.html?spm=a2hbt.13141534.1_2.d_1_1&s=70efbfbd1aefbfbd4911)
 
 ## 动漫
 
@@ -70,6 +76,9 @@
 - [爱给网](http://www.aigei.com/) --- 免费素材（音效、配乐、视频、3D、游戏、平面、教程）
 - [各种电脑升级、bug 图片](http://fakeupdate.net)
 
+## 课程
+
+- [量子计算](https://brilliant.org/courses/quantum-computing/)
 ---
 
 # 工具
@@ -93,7 +102,14 @@
 - [将 Markdown 转为思维导图的开源工具](https://markmap.js.org/)
 - [卡通头像生成](https://getavataaars.com/)
 - [浏览器网络插件](https://chrome.google.com/webstore/detail/astar-vpn-free-and-fast-v/jajilbjjinjmgcibalaakngmkilboobh)
-- 
+- [免费刷流量](http://www.qiao7.com/mfll.html)
+- [XAudioPro 在线音频实时剪辑转码工具](https://www.xaudiopro.com/cn/)
+- [MyVoiceYourFace 视频换脸](https://myvoiceyourface.com/)
+- [表格生成器](https://tableconvert.com/)
+- [Web 类 PPT 展示](https://github.com/ksky521/nodeppt)
+- [世界上的核电站](https://www.carbonbrief.org/mapped-the-worlds-nuclear-power-plants)
+- [图片编辑器](https://doka.photo/)
+- [简历模板及在线编辑](https://resume.io/app/create-resume/templates)
 
 ## 浏览器插件
 
@@ -114,6 +130,8 @@
 - [cpolar](https://dashboard.cpolar.com/get-started) --- 内网穿透
 - [GitBook 文档](https://gitbookio.gitbooks.io/documentation/index.html)
 - [GitBook 插件](http://gitbook.zhangjikai.com/plugins.html)
+- [natfrp 内网穿透](https://www.natfrp.com/?page=panel)
+- [哈利路亚输入法（Mac）](https://github.com/dongyuwei/hallelujahIM)
 
 ## 小程序公众号
 
@@ -192,6 +210,15 @@
 
 # 开发
 
+## Python
+
+- [re.sub 高级用法](https://www.dazhuanlan.com/2019/12/26/5e0470a7e39f5/?__cf_chl_jschl_tk__=803102f7cf9ebdda09ae0e01c1daae6b2fe1ab4b-1590389949-0-AQ5JVdMZ6r9jNXYBbi-ZdWyF7RC31Pu_h2yqSk7AnmGcLPwYpCSZB3IyWybVpi13vGEj5Di9UOeKU7L1a5SxPXOlrkYn19EaUDdFi24Wc2tLKnH019lDdZFvYE1CIBAhCZX5AMzDWmw9Y5UMZiSClfeMiSv7lksEMIWQZFdbBCNLPjfrT57YkXTgC25B2FLmOapB0ch1jTDV1QmyImqJOwQgu1s0rJaK1NzImL8ATmvK6Vmu7YQThQYvPtKxtA5pWazKNMgkwNXpO_qIqRf134eM8bRK0UEvb6UxrdZlWLanJZHSlyngG1hc7GEqNJXUFQ)
+- [Python 标准库中设计精巧的装饰器](https://www.jianshu.com/p/28c39cf0cb04)
+
+## Julia
+
+- [Julia 学院](https://juliaacademy.com/)
+
 ## 资源
 
 - [GitHub 中文排行榜](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) --- 优秀中文项目集合；周更
@@ -208,6 +235,9 @@
 - [介绍作者强烈推荐的数据科学家路线课程](https://davidadrian.cc/top-courses-data-science/)
 - [谷歌“厕所文”：什么时候写注释](https://testing.googleblog.com/2017/07/code-health-to-comment-or-not-to-comment.html)
 - [8 Hacks For Your Next Tech Resume](https://dev.to/gemography/common-mistakes-in-dev-cvs-2a17)
+- [How does a CPU work?](https://milapneupane.com.np/2019/07/06/how-does-a-cpu-work/)
+- [短网址原理及实现](https://hufangyun.com/2017/short-url/)
+- [A Visual Intro to NumPy and Data Representation](https://jalammar.github.io/visual-numpy/)
 
 ## web
 
@@ -233,7 +263,15 @@
 
 ## 算法
 
-[scikit-opt](https://github.com/guofei9987/scikit-opt) --- 一个封装了 7 种启发式算法的 Python 代码库。分别是：差分进化算法、遗传算法、粒子群算法、模拟退火算法、蚁群算法、鱼群算法、免疫优化算法
+- [scikit-opt](https://github.com/guofei9987/scikit-opt) --- 一个封装了 7 种启发式算法的 Python 代码库。分别是：差分进化算法、遗传算法、粒子群算法、模拟退火算法、蚁群算法、鱼群算法、免疫优化算法
+- 基于用户投票的排名算法（阮一峰 12 年的博客）
+  - [（一）：Delicious和Hacker News](http://www.ruanyifeng.com/blog/2012/02/ranking_algorithm_hacker_news.html)
+  - [（二）：Reddit](http://www.ruanyifeng.com/blog/2012/03/ranking_algorithm_reddit.html)
+  - [（三）：Stack Overflow](http://www.ruanyifeng.com/blog/2012/03/ranking_algorithm_stack_overflow.html)
+  - [（四）：牛顿冷却定律](http://www.ruanyifeng.com/blog/2012/03/ranking_algorithm_newton_s_law_of_cooling.html)
+  - [（五）：威尔逊区间](http://www.ruanyifeng.com/blog/2012/03/ranking_algorithm_wilson_score_interval.html)
+  - [（六）：贝叶斯平均](http://www.ruanyifeng.com/blog/2012/03/ranking_algorithm_bayesian_average.html)
+- [RSA 原理与实现](https://cjting.me/2020/03/13/rsa/)
 
 ## 工具
 
@@ -249,6 +287,9 @@
 - [使用redis实现分布式锁](https://redis.io/topics/distlock)
 - [对redis分布式锁的质疑](http://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
 - [redis作者对质疑的回应](http://antirez.com/news/101)
+- [SSH 命令的三种代理功能（-L/-R/-D）](https://zhuanlan.zhihu.com/p/57630633)
+- [如何写出幂等的 bash 脚本](https://arslan.io/2019/07/03/how-to-write-idempotent-bash-scripts/)
+- [Termux 入门教程：架设手机 Server 下载文件](http://www.ruanyifeng.com/blog/2019/07/termux-tutorial.html)
 
 ### Git、GitHub
 
@@ -258,6 +299,7 @@
 - [从 0 开始学习 GitHub](https://pan.baidu.com/s/1hsn57YO) --- 中文
 - [Github 使用技巧：存储文件、项目实例](http://solutionoptimist.com/awesome-github-tricks/)
 - [GitHub 部署网站](https://blog.csdn.net/u010105970/article/details/53889297)
+- [缩减GitHub仓库大小,彻底清除垃圾文件](https://www.jianshu.com/p/6217949e87a3)
 
 ## 概念介绍
 
