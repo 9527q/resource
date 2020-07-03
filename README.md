@@ -1,6 +1,3 @@
-[![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit)
-![](https://img.shields.io/github/repo-size/9527q/resource.svg?label=Repo%20size&style=flat-square)
-
 <div align="center">
   <a href="https://9527q.github.io/resource/">
   <img 
@@ -14,7 +11,7 @@
 
 ## 持续发布
 
-- [敏迪选读](https://www.mindiworldnews.com/) --- 约每日更新国内外资讯及看法
+- [敏迪选读][敏迪选读]
 - [阮一峰个人网站](http://www.ruanyifeng.com/home.html) --- 每周五更新[周刊](http://www.ruanyifeng.com/blog/)；[投稿处](https://github.com/ruanyf/weekly/issues)
 - [HelloGithub](https://www.hellogithub.com/) --- GitHub 上入门项目；每月 28 号更新
 - [今日热榜](https://tophub.today/)
@@ -309,3 +306,5 @@
 ## 面试
 
 - https://mp.weixin.qq.com/s/nZnkDsrnzXTfoFh3de0Vcg
+
+[敏迪选读]: https://www.mindiworldnews.com/
