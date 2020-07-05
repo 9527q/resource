@@ -11,14 +11,14 @@
 
 ## 持续发布
 
-- [敏迪选读][敏迪选读]
-- [阮一峰个人网站](http://www.ruanyifeng.com/home.html) --- 每周五更新[周刊](http://www.ruanyifeng.com/blog/)；[投稿处](https://github.com/ruanyf/weekly/issues)
-- [HelloGithub](https://www.hellogithub.com/) --- GitHub 上入门项目；每月 28 号更新
-- [今日热榜](https://tophub.today/)
+[敏迪选读][敏迪选读]
+| [阮一峰][阮一峰]；[周刊投稿][阮一峰周刊投稿]
+| [HelloGithub][HelloGithub]
+| [今日热榜][今日热榜]
 
 ## 集合
 
-- [全历史](https://www.allhistory.com/) --- 全世界历史；多语言
+- [全历史](https://www.allhistory.com/)
 - [Open Culture](http://www.openculture.com/) --- 免费课程、电影、语言课程、电子书、有声书、音乐、艺术图片
 - [知乎](https://www.zhihu.com/) --- 各类资源、教程
 - [Internet Archive](https://archive.org/) --- 互联网档案馆；图书、电影、音乐、应用、网站等
@@ -307,4 +307,12 @@
 
 - https://mp.weixin.qq.com/s/nZnkDsrnzXTfoFh3de0Vcg
 
-[敏迪选读]: https://www.mindiworldnews.com/
+<!-- 【H】 -->
+[HelloGithub]: https://www.hellogithub.com
+<!-- 【J】 -->
+[今日热榜]: https://tophub.today
+<!-- 【M】 -->
+[敏迪选读]: https://www.mindiworldnews.com
+<!-- 【R】 -->
+[阮一峰]: http://www.ruanyifeng.com/home.html
+[阮一峰周刊投稿]: https://github.com/ruanyf/weekly/issues
