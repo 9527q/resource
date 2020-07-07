@@ -7,31 +7,49 @@
   </a>
 </div>
 
+一                   | 二               | 三                         | 四                   | 五
+--------------------|-----------------|----------------------------|---------------------|--
+[敏迪选读][敏迪选读] | [阮一峰][阮一峰] | [HelloGithub][HelloGithub] | [今日热榜][今日热榜] |
+
+
 # 资源
 
-## 持续发布
+一               | 二                          | 三                              | 四 | 五
+----------------|-----------------------------|--------------------------------|----|--
+[全历史][全历史] | [Open Culture][OpenCulture] | [互联网档案馆][InternetArchive] |    |
 
-[敏迪选读][敏迪选读]
-| [阮一峰][阮一峰]；[周刊投稿][阮一峰周刊投稿]
-| [HelloGithub][HelloGithub]
-| [今日热榜][今日热榜]
+
+# 面试
+
+一                   | 二 | 三 | 四 | 五
+--------------------|----|----|----|--
+[反向面试][反向面试] |    |    |    |
+
+# 娱乐
+
+一                           | 二 | 三 | 四 | 五
+----------------------------|----|----|----|--
+[绳结大全][CompleteKnotList] |    |    |    |
+
+# 收录
+
+一               | 二 | 三 | 四 | 五
+----------------|----|----|----|--
+[新趣集][新趣集] |    |    |    |
+
+---
 
 ## 集合
 
-- [全历史](https://www.allhistory.com/)
-- [Open Culture](http://www.openculture.com/) --- 免费课程、电影、语言课程、电子书、有声书、音乐、艺术图片
-- [知乎](https://www.zhihu.com/) --- 各类资源、教程
-- [Internet Archive](https://archive.org/) --- 互联网档案馆；图书、电影、音乐、应用、网站等
-- [码力全开](https://design.maliquankai.com/) --- 产品/设计师/独立开发者的资源库
-- [GitHub 中文排行榜](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) --- 优秀中文项目集合
-- [MIT OCW](https://ocw.mit.edu/)
-- [Complete Knot List 绳结大全](https://www.animatedknots.com/complete-knot-list)
-- [新趣集](https://xinquji.com/)
-- [反向面试](https://github.com/yifeikong/reverse-interview-zh)
 
-## 概念
+- [码力全开][码力全开]
+- [GitHub 中文排行榜][GitHub中文排行榜]
+- [MIT OCW][MITOcw]
 
-- [九龙城寨](https://www.atlasobscura.com/articles/kowloon-walled-city) --- 香港一个已经拆除的居民区
+
+
+
+
 - [费米问题的回答](https://blog.csdn.net/yangzhongblog/article/details/103154699)
 
 ## 影视
@@ -307,12 +325,28 @@
 
 - https://mp.weixin.qq.com/s/nZnkDsrnzXTfoFh3de0Vcg
 
-<!-- 【H】 -->
+<!-- C -->
+[CompleteKnotList]: https://www.animatedknots.com/complete-knot-list
+<!-- G -->
+[GitHub中文排行榜]: https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts
+<!-- H -->
 [HelloGithub]: https://www.hellogithub.com
-<!-- 【J】 -->
+<!-- I -->
+[InternetArchive]: https://archive.org/
+<!-- M -->
+[MITOcw]: https://ocw.mit.edu/
+<!-- O -->
+[OpenCulture]: http://www.openculture.com/
+<!-- C -->
+[反向面试]: https://github.com/yifeikong/reverse-interview-zh
+<!-- J -->
 [今日热榜]: https://tophub.today
-<!-- 【M】 -->
+<!-- M -->
+[码力全开]: https://design.maliquankai.com/
 [敏迪选读]: https://www.mindiworldnews.com
-<!-- 【R】 -->
+<!-- Q -->
+[全历史]: https://www.allhistory.com/
+<!-- R -->
 [阮一峰]: http://www.ruanyifeng.com/home.html
-[阮一峰周刊投稿]: https://github.com/ruanyf/weekly/issues
+<!-- X -->
+[新趣集]: https://xinquji.com/
