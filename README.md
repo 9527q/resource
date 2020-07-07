@@ -12,101 +12,66 @@
 [敏迪选读][敏迪选读] | [阮一峰][阮一峰] | [HelloGithub][HelloGithub] | [今日热榜][今日热榜] |
 
 
-# 资源
+# 文化
 
 一               | 二                          | 三                              | 四 | 五
 ----------------|-----------------------------|--------------------------------|----|--
 [全历史][全历史] | [Open Culture][OpenCulture] | [互联网档案馆][InternetArchive] |    |
-
+[必看网][必看网]|[斯诺登自传][斯诺登自传]|||
 
 # 面试
 
 一                   | 二 | 三 | 四 | 五
 --------------------|----|----|----|--
-[反向面试][反向面试] |    |    |    |
+[反向面试][反向面试] |  [面试潜规则][面试潜规则]  |    |    |
 
 # 娱乐
 
-一                           | 二 | 三 | 四 | 五
-----------------------------|----|----|----|--
-[绳结大全][CompleteKnotList] |    |    |    |
+一                           | 二                           | 三                           | 四 | 五
+----------------------------|------------------------------|------------------------------|----|--
+[美剧鸟][美剧鸟]             | [外剧网][外剧网]             | [电影猫][电影猫]             |    |
+[音范丝][音范丝]             | [超高无损音乐][超高无损音乐] |                              |    |
+[绳结大全][CompleteKnotList] |                              |                              |    |
+[AGE 动漫网][AGE动漫网]      | [动漫岛][动漫岛]             | [海贼王故事线][海贼王故事线] |    |
+[彩虹屁][彩虹屁]             |       [土味情话]                       |                              |    |
 
 # 收录
 
-一               | 二 | 三 | 四 | 五
-----------------|----|----|----|--
-[新趣集][新趣集] |    |    |    |
+一               | 二                   | 三 | 四 | 五
+----------------|---------------------|----|----|--
+[新趣集][新趣集] | [码力全开][码力全开] |  [GitHub 中文排行榜][GitHub中文排行榜]  |    |
+
+
+# 课程
+
+一                | 二                   | 三 | 四 | 五
+------------------|---------------------|----|----|--
+[MIT OCW][MITOcw] | [量子计算][量子计算] |    |    |
+
+# 素材
+
+一                     | 二                        | 三               | 四                 | 五
+-----------------------|---------------------------|------------------|--------------------|---------------------------
+[unDraw][unDraw]       | [Iconfont][Iconfont]      |                  |                    |
+[pngimg][pngimg]       | [stick png][StickPng]     | [Pexels][Pexels] | [pixabay][pixabay] | [isorepublic][isorepublic]
+[爱给网][爱给网]       |                           |                  |                    |
+[wallhaven][wallhaven] | [fake update][FakeUpdate] |                  |                    |
+
+# 工具
+
+一                            | 二                   | 三 | 四 | 五
+-----------------------------|---------------------|----|----|--
+[Urban 词典][UrbanDictionary] | [万能命令][万能命令] |  [奶牛快传]  |    |
 
 ---
 
-## 集合
 
 
-- [码力全开][码力全开]
-- [GitHub 中文排行榜][GitHub中文排行榜]
-- [MIT OCW][MITOcw]
-
-
-
-
-
-- [费米问题的回答](https://blog.csdn.net/yangzhongblog/article/details/103154699)
-
-## 影视
-
-- [美剧鸟](http://www.meijuniao.com/)
-- [外剧网](https://www.waijutv.com/)
-- [电影猫](http://www.mvcat.com/) --- 从各种分类角度推荐好电影
-- [音范丝](http://www.yinfans.me/) --- 高清4k蓝光资源下载
-- [《长安十二时辰》历史知识](https://v.youku.com/v_show/id_XNDMwNjQ5Nzg3Ng==.html?spm=a2hbt.13141534.1_2.d_1_1&s=70efbfbd1aefbfbd4911)
-
-## 动漫
-
-- [AGE 动漫网](https://www.agefans.tv/) --- [备用](www.agefans.net)
-- [动漫岛](http://www.dmd8.com/) --- [备用](http://dm55.cc/)
-
-## 音乐
-
-- [超高无损音乐](https://www.sq688.com/)
-
-## 书籍
-
-- [必看网](https://www.biikan.com/)
-- [斯诺登自传](https://a.temporaryrecord.com/)
-
-## 文章
-
-- [我的外包经验：印度、中国和菲律宾（译文）](http://www.ruanyifeng.com/blog/2020/02/software-outsourcing.html)
-
-## 素材
-
-- [unDraw](https://undraw.co/illustrations) --- 现代、简约风格的 svg 插图资源；开源免费
-- [Iconfont](https://www.iconfont.cn/) --- 阿里巴巴矢量图标库
-- [pngimg](http://pngimg.com/) --- png 图片
-- [stick png](https://www.stickpng.com/)
-- [wallhaven壁纸](https://wallhaven.cc/)
-- [Pexels](https://www.pexels.com/zh-cn/) --- 摄影作者分享的免费照片和视频
-- [pixabay](https://pixabay.com/) --- 免费的照片、插图、矢量图、视频、音乐
-- [iso 免费照片和视频](https://isorepublic.com/)
-- [爱给网](http://www.aigei.com/) --- 免费素材（音效、配乐、视频、3D、游戏、平面、教程）
-- [各种电脑升级、bug 图片](http://fakeupdate.net)
-
-## 课程
-
-- [量子计算](https://brilliant.org/courses/quantum-computing/)
----
 
 # 工具
 
 ## 网页
 
-- [谷粉学术](https://gfsoso.99lb.net/scholar.html)
-- [Urban Dictionary](https://www.urbandictionary.com/) --- 英文方言词典
-- [万能命令](https://wanneng.run/cn/) --- 给出针对某个网站的可用工具集合；在某页面 url 前加 `wn.run/` 即可查询对该页面的可用工具，此时点击工具直接进入针对该网页的结果页面
-- [微博党](http://weibodang.cn/) --- 网页截图/密码生成/视频解析
-- [奶牛快传](https://cowtransfer.com/) --- 文件传输及存储服务
-- [彩虹屁](https://chp.shadiao.app/)
-- [甜言蜜语](https://github.com/zerosoul/honeyed-words-generator) 土味情话生成，[网页](https://works.yangerxiao.com/honeyed-words-generator/)
 - [智图压缩](https://zhitu.isux.us/)
 - [File2HD](http://www.file2hd.com/) --- 提供给定网页所有文件的下载
 - [全世界自来水能否安全饮用查询](https://www.iswatersafetodrink.in/) --- [中国](https://www.iswatersafetodrink.in/China)
@@ -148,10 +113,6 @@
 - [natfrp 内网穿透](https://www.natfrp.com/?page=panel)
 - [哈利路亚输入法（Mac）](https://github.com/dongyuwei/hallelujahIM)
 
-## 小程序公众号
-
-- [微定时架构](https://blog.betacat.io/post/how-wecron-schedules/) --- 微定时是一个通过公众号实现定时提醒的工具，本文介绍其架构，服务端代码是开源的，使用 Django 完成。[Github](https://github.com/polyrabbit/WeCron)
-
 ## 教程
 
 - [中文文案排版指北](https://github.com/mzlogin/chinese-copywriting-guidelines)
@@ -184,38 +145,13 @@
 - [极客战记](https://codecombat.163.com)
 - [CodeWar](https://www.codewar.cn/home)
 - [飞行模拟器](https://www.geo-fs.com/int/cn/index.php)
-- [文字修仙](https://louisalflame.github.io/CFantasyClick/index.html) --- console外挂 `for(var i = 0; i< 50000; i++)**$(".btn.btn-lg.btn-default")**.click()**`
-- [yorg](https://yorg.io/) --- 塔防
+- [文字修仙](https://louisalflame.github.io/CFantasyClick/index.html)
 - [yorg3](https://yorg3.io/) --- 塔防
 - https://mp.weixin.qq.com/s/7XFIIjypFI9vtd34HQWP7Q
 
-## 有意思的事
 
-- [最难的数独](https://www.theverge.com/tldr/2020/5/18/21262771/sudoku-puzzle-cracking-the-cryptic-watch-this-video-simon-anthony) --- 只有两个初始数字
-- [干掉犀牛角](https://animal-friendly.co/2020/05/18/secret-rhino-dehorning-programme/) --- 为防止猎杀，先干掉犀牛角，还能长出来
-- [特朗普竞选连任官网的404](https://www.donaldjtrump.com/404) --- 404页面是对手拜登的照片，说明文字是拜登在说"看来你跟我一样没找到方向"；[图片](https://user-images.githubusercontent.com/37435717/82882039-1922fc00-9f73-11ea-91eb-e88bf58e9ed4.png)
-- [扎克伯格捐款餐厅](https://tech.sina.cn/i/gj/2020-05-15/detail-iirczymk1700312.d.html) --- 扎克伯格向经常去的硅谷8家餐厅，每家捐款10万美元，条件是不得因为疫情而倒闭
-- [天然拱桥协会](https://www.naturalarches.org/big9.htm) --- 该协会致力于发现世界上天然形成的拱桥
-- [红外线血管成像仪](http://news.workercn.cn/32846/202003/07/200307081252899.shtml) --- 西安一家科研机构研制出红外线血管成像仪，利用血管中血红蛋白队近红外光的吸收率与其他组织不同的原理，将皮下血管原位投影显示在皮肤表面，使医护人员能够清晰识别患者皮下 8～10 毫米的血管
-- [给弱势和视力障碍人士的智能隐形眼镜](https://www.theverge.com/2020/1/16/21067683/mojo-smart-contact-lens-augmented-reality-startup) --- 一家硅谷创业公司提出智能隐形眼镜，其实是一个眼球前面的显示器，将外界影像对着眼球播放，里面有电池
-- [84岁的 iOS 开发者：若宫雅子](https://asia.nikkei.com/Business/Technology/Meet-the-84-year-old-Japanese-app-developer-who-inspired-Tim-Cook2) --- 93 年 58 岁的她从银行退休，银行送她一台个人计算机；14 年她有了智能手机，想开发一款专为老人服务的手机游戏；采纳 App 开发公司总裁的建议自己开发并通过 Skype 向他请教；17年游戏发布并受邀参加 WWDC
-- [可能被比赛禁用的跑鞋](https://www.thestreet.com/investing/nike-rivals-gain-amid-reports-vaporfly-shoes-face-iaaf-ban) --- 国际田联打算禁止耐克公司的 Vaporfly Next 跑鞋；肯尼亚选手就是穿这种鞋，马拉松成绩跑进了两小时；据说，该鞋可以提供更好的弹力
-- [安乐死过山车](https://en.wikipedia.org/wiki/Euthanasia_Coaster) --- 通过加速度让大脑缺氧，然后死亡
-- [我们会用尽氦气吗？](https://www.thoughtco.com/will-we-run-out-of-helium-3975959) --- 惰性气体氦太轻容易流失到太空
-- [特殊展示符号的来源](https://mp.weixin.qq.com/s/SR27Cf8sUPGHzgc3i3xj_Q)
 - [算法可视化](https://mp.weixin.qq.com/s/rUQEymRL5v82WWUwOErJPA)
 
-## 言论
-
-> 如果你经营酒店，退房时间放宽30分钟。如果你经营餐馆，给客人提供免费的小点心。如果你经营面包店，柜台上放一些额外的饼干。
-> 
-> 这些短期成本会创造顾客长期的忠诚度。
-
--- David Perell
-
-> 目前预测，北极可能在2040年，出现第一个无冰的夏天。
-
-—— [《科学家北冰洋的漂流实验》](https://www.npr.org/2019/12/04/784691513/polar-bears-ice-cracks-and-isolation-scientists-drift-across-the-arctic-ocean)
 
 [如何认清问题](https://developer.aliyun.com/article/738121?spm=a1z389.11499242.0.0.65452413JIV3mg&utm_content=g_1000092000)
 
@@ -223,12 +159,6 @@
 
 ---
 
-# 开发
-
-## Python
-
-- [re.sub 高级用法](https://www.dazhuanlan.com/2019/12/26/5e0470a7e39f5/?__cf_chl_jschl_tk__=803102f7cf9ebdda09ae0e01c1daae6b2fe1ab4b-1590389949-0-AQ5JVdMZ6r9jNXYBbi-ZdWyF7RC31Pu_h2yqSk7AnmGcLPwYpCSZB3IyWybVpi13vGEj5Di9UOeKU7L1a5SxPXOlrkYn19EaUDdFi24Wc2tLKnH019lDdZFvYE1CIBAhCZX5AMzDWmw9Y5UMZiSClfeMiSv7lksEMIWQZFdbBCNLPjfrT57YkXTgC25B2FLmOapB0ch1jTDV1QmyImqJOwQgu1s0rJaK1NzImL8ATmvK6Vmu7YQThQYvPtKxtA5pWazKNMgkwNXpO_qIqRf134eM8bRK0UEvb6UxrdZlWLanJZHSlyngG1hc7GEqNJXUFQ)
-- [Python 标准库中设计精巧的装饰器](https://www.jianshu.com/p/28c39cf0cb04)
 
 ## Julia
 
@@ -236,14 +166,11 @@
 
 ## 资源
 
-- [GitHub 中文排行榜](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) --- 优秀中文项目集合；周更
 - [书栈网 BookStack](https://www.bookstack.cn/)：各种IT开源书籍和文档分享站点，在线阅读很舒服
-- [码力全开](https://design.maliquankai.com/) --- 产品/设计师/独立开发者的资源库
 - [leetcode 前 300 题](https://leetcode.wang/) --- 每道都进行了详细通俗的分析，并且提供多种思路解法
 - [Go 语言示例教程](https://github.com/inancgumus/learngo) --- 一个 Go 语言初学者教程的示例仓库，收集了1000多个示例、练习和问题
 - [苹果开发者可能需要下载的各个版本的应用、系统、开发工具等](https://developer.apple.com/download/more/)
 - [Docker 镜像构建教程：减小镜像体积（中文）](https://fuckcloudnative.io/posts/docker-images-part1-reducing-image-size/)
-- [该仓库作者校招时面试的前端复习笔记](https://github.com/CavsZhouyou/Front-End-Interview-Notebook)
 - [Go 语言 7 天实现一个项目](https://github.com/geektutu/7days-golang)
 - [免费的编程中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
 - [介绍设计模式](https://refactoringguru.cn/design-patterns)
@@ -316,37 +243,75 @@
 - [GitHub 部署网站](https://blog.csdn.net/u010105970/article/details/53889297)
 - [缩减GitHub仓库大小,彻底清除垃圾文件](https://www.jianshu.com/p/6217949e87a3)
 
-## 概念介绍
 
-- [一致性哈希算法](https://mp.weixin.qq.com/s/i_uCrZMdfm7UXt9aZF8BXg)
-- [Celery](https://mp.weixin.qq.com/s/w63Ut5zZjlOypvrhO7YWIA)
 
-## 面试
 
-- https://mp.weixin.qq.com/s/nZnkDsrnzXTfoFh3de0Vcg
-
+<!-- A -->
+[AGE动漫网]: https://www.agefans.tv/
 <!-- C -->
 [CompleteKnotList]: https://www.animatedknots.com/complete-knot-list
+<!-- F -->
+[FakeUpdate]: http://fakeupdate.net
 <!-- G -->
 [GitHub中文排行榜]: https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts
 <!-- H -->
 [HelloGithub]: https://www.hellogithub.com
 <!-- I -->
+[Iconfont]: https://www.iconfont.cn/
 [InternetArchive]: https://archive.org/
+[isorepublic]: https://isorepublic.com/
 <!-- M -->
 [MITOcw]: https://ocw.mit.edu/
 <!-- O -->
 [OpenCulture]: http://www.openculture.com/
+<!-- P -->
+[Pexels]: https://www.pexels.com/zh-cn/
+[pixabay]: https://pixabay.com/
+[pngimg]: http://pngimg.com/
+<!-- S -->
+[StickPng]: https://www.stickpng.com/
+<!-- U -->
+[unDraw]: https://undraw.co/illustrations
+[UrbanDictionary]: https://www.urbandictionary.com/
+<!-- W -->
+[wallhaven]: https://wallhaven.cc/
+<!-- A -->
+[爱给网]: http://www.aigei.com/
+<!-- B -->
+[必看网]: https://www.biikan.com/
 <!-- C -->
+[彩虹屁]: https://chp.shadiao.app/
+[超高无损音乐]: https://www.sq688.com/
+<!-- D -->
+[电影猫]: http://www.mvcat.com/
+[动漫岛]: http://www.dmd8.com/
+<!-- F -->
 [反向面试]: https://github.com/yifeikong/reverse-interview-zh
+<!-- H -->
+[海贼王故事线]: https://datamuse.guokr.com/opd
 <!-- J -->
 [今日热榜]: https://tophub.today
+<!-- L -->
+[量子计算]: https://brilliant.org/courses/quantum-computing/
 <!-- M -->
 [码力全开]: https://design.maliquankai.com/
+[美剧鸟]: http://www.meijuniao.com/
+[面试潜规则]: https://mp.weixin.qq.com/s/nZnkDsrnzXTfoFh3de0Vcg
 [敏迪选读]: https://www.mindiworldnews.com
+<!-- N -->
+[奶牛快传]: https://cowtransfer.com/
 <!-- Q -->
 [全历史]: https://www.allhistory.com/
 <!-- R -->
 [阮一峰]: http://www.ruanyifeng.com/home.html
+<!-- S -->
+[斯诺登自传]: https://a.temporaryrecord.com/
+<!-- T -->
+[土味情话]: https://works.yangerxiao.com/honeyed-words-generator/
+<!-- W -->
+[外剧网]: https://www.waijutv.com/
+[万能命令]: https://wanneng.run/cn/
 <!-- X -->
 [新趣集]: https://xinquji.com/
+<!-- Y -->
+[音范丝]: http://www.yinfans.me/
