@@ -33,7 +33,7 @@
 [音范丝][音范丝]             | [超高无损音乐][超高无损音乐] |                              |    |
 [绳结大全][CompleteKnotList] |                              |                              |    |
 [AGE 动漫网][AGE动漫网]      | [动漫岛][动漫岛]             | [海贼王故事线][海贼王故事线] |    |
-[彩虹屁][彩虹屁]             |       [土味情话]                       |                              |    |
+[彩虹屁][彩虹屁]             | [土味情话][土味情话]         |                              |    |
 
 # 收录
 
@@ -242,6 +242,7 @@
 - [Github 使用技巧：存储文件、项目实例](http://solutionoptimist.com/awesome-github-tricks/)
 - [GitHub 部署网站](https://blog.csdn.net/u010105970/article/details/53889297)
 - [缩减GitHub仓库大小,彻底清除垃圾文件](https://www.jianshu.com/p/6217949e87a3)
+- http://www.python-excel.org/
 
 
 
