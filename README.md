@@ -7,89 +7,56 @@
   </a>
 </div>
 
-Ⅰ                    | Ⅱ                | Ⅲ                          | Ⅳ                    | Ⅴ
----------------------|------------------|----------------------------|----------------------|--
-[敏迪选读][敏迪选读] | [阮一峰][阮一峰] | [HelloGithub][HelloGithub] | [今日热榜][今日热榜] |
 
+Ⅰ                                            | Ⅱ                                          | Ⅲ                                 | Ⅳ
+---------------------------------------------|--------------------------------------------|-----------------------------------|-------------
+[敏迪选读 - 日更][敏迪选读]                  | [阮一峰 - 周更][阮一峰]                    | [HelloGithub - 月更][HelloGithub] | [今日热榜][今日热榜]
+[GitHub 中文排行榜 - 周更][GitHub中文排行榜] | [码力全开 - 产品/设计师的资源库][码力全开] |                                   |
 
 # 文化
 
-一               | 二                          | 三                              | 四 | 五
-----------------|-----------------------------|--------------------------------|----|--
-[全历史][全历史] | [Open Culture][OpenCulture] | [互联网档案馆][InternetArchive] |    |
-[必看网][必看网]|[斯诺登自传][斯诺登自传]|||
+Ⅰ                                 | Ⅱ                                      | Ⅲ                               | Ⅳ
+----------------------------------|----------------------------------------|---------------------------------|-----------------
+[全历史 - 超棒的历史展示][全历史] | [Open Culture - 开放资源][OpenCulture] | [互联网档案馆][InternetArchive] | [必看网 - 书单多][必看网]
+[斯诺登自传 - 汉语版][斯诺登自传] |                                        |                                 |
 
 # 面试
 
-一                   | 二 | 三 | 四 | 五
---------------------|----|----|----|--
-[反向面试][反向面试] |  [面试潜规则][面试潜规则]  |    |    |
+Ⅰ                    | Ⅱ                        | Ⅲ | Ⅳ
+---------------------|--------------------------|---|--
+[反向面试][反向面试] | [面试潜规则][面试潜规则] |   |
 
-# 娱乐
+# 娱乐/新奇
 
-一                           | 二                           | 三                           | 四 | 五
-----------------------------|------------------------------|------------------------------|----|--
-[美剧鸟][美剧鸟]             | [外剧网][外剧网]             | [电影猫][电影猫]             |    |
-[音范丝][音范丝]             | [超高无损音乐][超高无损音乐] |                              |    |
-[绳结大全][CompleteKnotList] |                              |                              |    |
-[AGE 动漫网][AGE动漫网]      | [动漫岛][动漫岛]             | [海贼王故事线][海贼王故事线] |    |
-[彩虹屁][彩虹屁]             | [土味情话][土味情话]         |                              |    |
-
-# 收录
-
-一               | 二                   | 三 | 四 | 五
-----------------|---------------------|----|----|--
-[新趣集][新趣集] | [码力全开][码力全开] |  [GitHub 中文排行榜][GitHub中文排行榜]  |    |
-
+Ⅰ                                           | Ⅱ                               | Ⅲ                                             | Ⅳ
+--------------------------------------------|---------------------------------|-----------------------------------------------|--
+[绳结大全 - 实图分步教学][CompleteKnotList] | [新趣集 - 产品发现社区][新趣集] | [海贼王故事线 - 移动端体验好][海贼王故事线]   |
+[彩虹屁][彩虹屁]                            | [土味情话][土味情话]            | [MyVoiceYourFace - 视频换脸][MyVoiceYourFace] |
 
 # 课程
 
-一                | 二                   | 三 | 四 | 五
-------------------|---------------------|----|----|--
-[MIT OCW][MITOcw] | [量子计算][量子计算] |    |    |
+Ⅰ                                  | Ⅱ                        | Ⅲ | Ⅳ | Ⅴ
+-----------------------------------|--------------------------|---|---|--
+[MIT OCW - MIT 官方公开课][MITOcw] | [量子计算课程][量子计算] |   |   |
+
+# 工具
+
+Ⅰ                                            | Ⅱ                                                           | Ⅲ                                      | Ⅳ
+---------------------------------------------|-------------------------------------------------------------|----------------------------------------|-------------------------------------
+[Urban 词典 - 英文俚语词典][UrbanDictionary] | [万能命令 - 查寻/使用方便][万能命令]                        | [奶牛快传][奶牛快传]                   | [智图压缩][智图压缩]
+[File2HD - 下载网页所有文件][File2HD]        | [Detexify 网页版 - 根据绘画推断 Latex][Detexify网页版]      | [Latex在线编辑及转图片][Latex在线编辑] | [Gossip - 网页创建/炫酷播放类 PPT 内容][Gossip]
+[Link Lock - 纯前端开源 URL 加密][LinkLock]  | [Markdown 转思维导图 - 导出为 HTML/SVG][Markdown转思维导图] | [Chrome VPN 插件][ChromeVPN插件]       | [XAudioPro - 在线音频编辑][XAudioPro]
+[表格生成器][表格生成器]                     | [nodeppt - 网页演示库][nodeppt]                             | [世界上的核电站][世界上的核电站]       | [DokaPhoto - 在线图片编辑][DokaPhoto]
+[简历模板及在线编辑][简历模板及在线编辑]     |                                                             |                                        |
 
 # 素材
 
-一                     | 二                        | 三               | 四                 | 五
------------------------|---------------------------|------------------|--------------------|---------------------------
-[unDraw][unDraw]       | [Iconfont][Iconfont]      |                  |                    |
-[pngimg][pngimg]       | [stick png][StickPng]     | [Pexels][Pexels] | [pixabay][pixabay] | [isorepublic][isorepublic]
-[爱给网][爱给网]       |                           |                  |                    |
-[wallhaven][wallhaven] | [fake update][FakeUpdate] |                  |                    |
-
-# 工具
-
-一                            | 二                   | 三 | 四 | 五
------------------------------|---------------------|----|----|--
-[Urban 词典][UrbanDictionary] | [万能命令][万能命令] |  [奶牛快传]  |    |
-
----
-
-
-
-
-# 工具
-
-## 网页
-
-- [智图压缩](https://zhitu.isux.us/)
-- [File2HD](http://www.file2hd.com/) --- 提供给定网页所有文件的下载
-- [全世界自来水能否安全饮用查询](https://www.iswatersafetodrink.in/) --- [中国](https://www.iswatersafetodrink.in/China)
-- [Detexify 网页版](http://detexify.kirelabs.org/classify.html) --- 根据画出的单个字符推断其 Latex 代码
-- [LATEX 在线公式编辑转图片](https://latex.vimsky.com/)
-- [GOSSIP](https://pearmini.gitee.io/gossip/) --- 炫酷的创建类 PPT 内容，在网页播放 [GitHub](https://github.com/pearmini/gossip)
-- [Link Lock](https://github.com/jstrieb/link-lock) --- 开源的 URL 加密服务，纯静态网页实现，采用 AES 加密算法
-- [将 Markdown 转为思维导图的开源工具](https://markmap.js.org/)
-- [卡通头像生成](https://getavataaars.com/)
-- [浏览器网络插件](https://chrome.google.com/webstore/detail/astar-vpn-free-and-fast-v/jajilbjjinjmgcibalaakngmkilboobh)
-- [免费刷流量](http://www.qiao7.com/mfll.html)
-- [XAudioPro 在线音频实时剪辑转码工具](https://www.xaudiopro.com/cn/)
-- [MyVoiceYourFace 视频换脸](https://myvoiceyourface.com/)
-- [表格生成器](https://tableconvert.com/)
-- [Web 类 PPT 展示](https://github.com/ksky521/nodeppt)
-- [世界上的核电站](https://www.carbonbrief.org/mapped-the-worlds-nuclear-power-plants)
-- [图片编辑器](https://doka.photo/)
-- [简历模板及在线编辑](https://resume.io/app/create-resume/templates)
+Ⅰ                                              | Ⅱ                                        | Ⅲ                                          | Ⅳ
+-----------------------------------------------|------------------------------------------|--------------------------------------------|-----------------------------------
+[unDraw - 智能/信息化风格插画][unDraw]         | [Iconfont - 图标库/制作][Iconfont]       |                                            |
+[stick png - png 图片][StickPng]               | [Pexels - 摄影照片、视频][Pexels]         | [pixabay - 照片、矢量图、插图、视频][pixabay] | [isorepublic - 照片、视频][isorepublic]
+[爱给网 - 音效、配乐、视频、3D、平面、教程][爱给网] |                                          |                                            |
+[wallhaven - 壁纸][wallhaven]                  | [fake update - 系统更新图片][FakeUpdate] |                                            |
 
 ## 浏览器插件
 
@@ -245,58 +212,69 @@
 - http://www.python-excel.org/
 
 
-
-
 <!-- A -->
-[AGE动漫网]: https://www.agefans.tv/
 <!-- C -->
+[ChromeVPN插件]: https://chrome.google.com/webstore/detail/astar-vpn-free-and-fast-v/jajilbjjinjmgcibalaakngmkilboobh
 [CompleteKnotList]: https://www.animatedknots.com/complete-knot-list
+<!-- D -->
+[Detexify网页版]: http://detexify.kirelabs.org/classify.html
+[DokaPhoto]: https://doka.photo/
 <!-- F -->
 [FakeUpdate]: http://fakeupdate.net
+[File2HD]: http://www.file2hd.com/
 <!-- G -->
 [GitHub中文排行榜]: https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts
+[Gossip]: https://github.com/pearmini/gossip
 <!-- H -->
 [HelloGithub]: https://www.hellogithub.com
 <!-- I -->
 [Iconfont]: https://www.iconfont.cn/
 [InternetArchive]: https://archive.org/
 [isorepublic]: https://isorepublic.com/
+<!-- L -->
+[Latex在线编辑]: https://latex.vimsky.com/
 <!-- M -->
+[Markdown转思维导图]: https://markmap.js.org/
 [MITOcw]: https://ocw.mit.edu/
+[MyVoiceYourFace]: https://myvoiceyourface.com/
+<!-- N -->
+[Nodeppt]: https://github.com/ksky521/nodeppt
 <!-- O -->
 [OpenCulture]: http://www.openculture.com/
 <!-- P -->
 [Pexels]: https://www.pexels.com/zh-cn/
 [pixabay]: https://pixabay.com/
-[pngimg]: http://pngimg.com/
 <!-- S -->
 [StickPng]: https://www.stickpng.com/
 <!-- U -->
-[unDraw]: https://undraw.co/illustrations
 [UrbanDictionary]: https://www.urbandictionary.com/
+[unDraw]: https://undraw.co/illustrations
+[LinkLock]: https://github.com/jstrieb/link-lock
 <!-- W -->
 [wallhaven]: https://wallhaven.cc/
+<!-- X -->
+[XAudioPro]: https://www.xaudiopro.com/cn/
+
+
 <!-- A -->
 [爱给网]: http://www.aigei.com/
 <!-- B -->
 [必看网]: https://www.biikan.com/
+[表格生成器]: https://tableconvert.com/
 <!-- C -->
 [彩虹屁]: https://chp.shadiao.app/
-[超高无损音乐]: https://www.sq688.com/
 <!-- D -->
-[电影猫]: http://www.mvcat.com/
-[动漫岛]: http://www.dmd8.com/
 <!-- F -->
 [反向面试]: https://github.com/yifeikong/reverse-interview-zh
 <!-- H -->
 [海贼王故事线]: https://datamuse.guokr.com/opd
 <!-- J -->
+[简历模板及在线编辑]: https://resume.io/app/create-resume/templates
 [今日热榜]: https://tophub.today
 <!-- L -->
 [量子计算]: https://brilliant.org/courses/quantum-computing/
 <!-- M -->
 [码力全开]: https://design.maliquankai.com/
-[美剧鸟]: http://www.meijuniao.com/
 [面试潜规则]: https://mp.weixin.qq.com/s/nZnkDsrnzXTfoFh3de0Vcg
 [敏迪选读]: https://www.mindiworldnews.com
 <!-- N -->
@@ -306,13 +284,25 @@
 <!-- R -->
 [阮一峰]: http://www.ruanyifeng.com/home.html
 <!-- S -->
+[世界上的核电站]: https://www.carbonbrief.org/mapped-the-worlds-nuclear-power-plants
 [斯诺登自传]: https://a.temporaryrecord.com/
 <!-- T -->
 [土味情话]: https://works.yangerxiao.com/honeyed-words-generator/
 <!-- W -->
-[外剧网]: https://www.waijutv.com/
 [万能命令]: https://wanneng.run/cn/
 <!-- X -->
 [新趣集]: https://xinquji.com/
 <!-- Y -->
-[音范丝]: http://www.yinfans.me/
+<!-- Z -->
+[智图压缩]: https://zhitu.isux.us/
+
+
+编写规则：
+* 表格为 4 列，使用罗马数字作为列名
+* 链接存放排序：
+  1. 英汉
+  2. 单词/拼音字母顺序
+  3. 大小写/声调顺序
+* 链接名字：
+  * 只能由中英文字符组成，不能重复
+  * 英文大驼峰
