@@ -7,302 +7,229 @@
   </a>
 </div>
 
+Ⅰ                     | Ⅱ                                  | Ⅲ               | Ⅳ
+----------------------|------------------------------------|-----------------|---------
+[敏迪选读][]          | [阮一峰][]                         | [HelloGithub][] | [今日热榜][]
+[GitHub 中文排行榜][] | [码力全开 - 产品/设计师的资源库][] |                 |
 
-Ⅰ                                            | Ⅱ                                          | Ⅲ                                 | Ⅳ
----------------------------------------------|--------------------------------------------|-----------------------------------|-------------
-[敏迪选读 - 日更][敏迪选读]                  | [阮一峰 - 周更][阮一峰]                    | [HelloGithub - 月更][HelloGithub] | [今日热榜][今日热榜]
-[GitHub 中文排行榜 - 周更][GitHub中文排行榜] | [码力全开 - 产品/设计师的资源库][码力全开] |                                   |
+[敏迪选读]: https://www.mindiworldnews.com
+[阮一峰]: http://www.ruanyifeng.com/home.html
+[HelloGithub]: https://www.hellogithub.com
+[今日热榜]: https://tophub.today
+[GitHub 中文排行榜]: https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts
+[码力全开 - 产品/设计师的资源库]: https://design.maliquankai.com/
 
 # 文化
 
-Ⅰ                                 | Ⅱ                                      | Ⅲ                               | Ⅳ
-----------------------------------|----------------------------------------|---------------------------------|-----------------
-[全历史 - 超棒的历史展示][全历史] | [Open Culture - 开放资源][OpenCulture] | [互联网档案馆][InternetArchive] | [必看网 - 书单多][必看网]
-[斯诺登自传 - 汉语版][斯诺登自传] |                                        |                                 |
+Ⅰ                           | Ⅱ                           | Ⅲ                                  | Ⅳ
+----------------------------|-----------------------------|------------------------------------|-------------
+[全历史 - 超棒的历史展示][] | [Open Culture - 开放资源][] | [InternetArchive - 互联网档案馆][] | [必看网 - 书单][]
+[斯诺登自传 - 中文][]       |                             |                                    |
+
+[全历史 - 超棒的历史展示]: https://www.allhistory.com/
+[Open Culture - 开放资源]: http://www.openculture.com/
+[InternetArchive - 互联网档案馆]: https://archive.org/
+[必看网 - 书单]: https://www.biikan.com/
+[斯诺登自传 - 中文]: https://a.temporaryrecord.com/
 
 # 面试
 
-Ⅰ                    | Ⅱ                        | Ⅲ | Ⅳ
----------------------|--------------------------|---|--
-[反向面试][反向面试] | [面试潜规则][面试潜规则] |   |
+Ⅰ            | Ⅱ              | Ⅲ | Ⅳ
+-------------|----------------|---|--
+[反向面试][] | [面试潜规则][] |   |
+
+[反向面试]: https://github.com/yifeikong/reverse-interview-zh
+[面试潜规则]: https://mp.weixin.qq.com/s/nZnkDsrnzXTfoFh3de0Vcg
 
 # 娱乐/新奇
 
-Ⅰ                                           | Ⅱ                               | Ⅲ                                             | Ⅳ
---------------------------------------------|---------------------------------|-----------------------------------------------|--
-[绳结大全 - 实图分步教学][CompleteKnotList] | [新趣集 - 产品发现社区][新趣集] | [海贼王故事线 - 移动端体验好][海贼王故事线]   |
-[彩虹屁][彩虹屁]                            | [土味情话][土味情话]            | [MyVoiceYourFace - 视频换脸][MyVoiceYourFace] |
+Ⅰ                                                                   | Ⅱ                              | Ⅲ                               | Ⅳ
+--------------------------------------------------------------------|--------------------------------|---------------------------------|------------------------------
+[CompleteKnotList - 绳结大全][]                                     | [新趣集 - 发现产品][]          | [海贼王故事线 - 移动端体验好][] | [新合金弹头][]
+[彩虹屁][]                                                          | [土味情话][]                   | [MyVoiceYourFace - 视频换脸][]  | [Euclidea - 平面几何作图游戏；有 APP][]
+[this person does not exist - 每次请求返回一张 AI 生成的人脸照片][] | [星链计划已发射卫星实时位置][] | [CodeTank][]                    | [极客战记][]
+[CodeWar][]                                                         | [飞行模拟器][]                 | [文字修仙][]                    | [yorg3 - 塔防][]
+[Oskar Stålberg 的建模游戏][]                                       |                                |                                 |
 
-# 课程
+[CompleteKnotList - 绳结大全]: https://www.animatedknots.com/complete-knot-list
+[新趣集 - 发现产品]: https://xinquji.com/
+[海贼王故事线 - 移动端体验好]: https://datamuse.guokr.com/opd
+[新合金弹头]: http://www.4399.com/flash/1809.htm#search3
+[彩虹屁]: https://chp.shadiao.app/
+[土味情话]: https://works.yangerxiao.com/honeyed-words-generator/
+[MyVoiceYourFace - 视频换脸]: https://myvoiceyourface.com/
+[this person does not exist - 每次请求返回一张 AI 生成的人脸照片]: https://thispersondoesnotexist.com/
+[星链计划已发射卫星实时位置]: https://satellitemap.space/indexA.html
+[Euclidea - 平面几何作图游戏；有 APP]: (https://www.euclidea.xyz/en/game/packs/)
+[CodeTank]: http://codetank.alloyteam.com/
+[极客战记]: https://codecombat.163.com
+[CodeWar]: https://www.codewar.cn/home
+[飞行模拟器]: https://www.geo-fs.com/int/cn/index.php)
+[文字修仙]: https://louisalflame.github.io/CFantasyClick/index.html)
+[yorg3 - 塔防]: https://yorg3.io/)
+[Oskar Stålberg 的建模游戏]: https://mp.weixin.qq.com/s/7XFIIjypFI9vtd34HQWP7Q
 
-Ⅰ                                  | Ⅱ                        | Ⅲ | Ⅳ | Ⅴ
------------------------------------|--------------------------|---|---|--
-[MIT OCW - MIT 官方公开课][MITOcw] | [量子计算课程][量子计算] |   |   |
+# 课程/教程/文档
+
+Ⅰ                            | Ⅱ                                      | Ⅲ                                    | Ⅳ
+-----------------------------|----------------------------------------|--------------------------------------|----------------------------
+[MIT OCW - MIT 官方公开课][] | [量子计算课程][]                       | [中文文案排版指北][]                 | [Markdown 语法说明(简体中文版)][]
+[Julia 学院][]               | [书栈网 - IT 开源书籍/文档；在线阅读][] | [深入浅出现代Web编程 - 大学公开课][] | [SSH 命令的三种代理功能（-L/-R/-D）][]
+[如何写出幂等的 bash 脚本][] |                                        |                                      |
+
+[MIT OCW - MIT 官方公开课]: https://ocw.mit.edu/
+[量子计算课程]: https://brilliant.org/courses/quantum-computing/
+[中文文案排版指北]: https://github.com/mzlogin/chinese-copywriting-guidelines
+[Markdown 语法说明(简体中文版)]: https://www.appinn.com/markdown/#list
+[Julia 学院]: https://juliaacademy.com/
+[书栈网 - IT 开源书籍/文档；在线阅读]: https://www.bookstack.cn/
+[深入浅出现代Web编程 - 大学公开课]: https://fullstackopen.com/zh/
+[SSH 命令的三种代理功能（-L/-R/-D）]: https://zhuanlan.zhihu.com/p/57630633
+[如何写出幂等的 bash 脚本]: https://arslan.io/2019/07/03/how-to-write-idempotent-bash-scripts/
 
 # 工具
 
-Ⅰ                                            | Ⅱ                                                           | Ⅲ                                      | Ⅳ
----------------------------------------------|-------------------------------------------------------------|----------------------------------------|-------------------------------------
-[Urban 词典 - 英文俚语词典][UrbanDictionary] | [万能命令 - 查寻/使用方便][万能命令]                        | [奶牛快传][奶牛快传]                   | [智图压缩][智图压缩]
-[File2HD - 下载网页所有文件][File2HD]        | [Detexify 网页版 - 根据绘画推断 Latex][Detexify网页版]      | [Latex在线编辑及转图片][Latex在线编辑] | [Gossip - 网页创建/炫酷播放类 PPT 内容][Gossip]
-[Link Lock - 纯前端开源 URL 加密][LinkLock]  | [Markdown 转思维导图 - 导出为 HTML/SVG][Markdown转思维导图] | [Chrome VPN 插件][ChromeVPN插件]       | [XAudioPro - 在线音频编辑][XAudioPro]
-[表格生成器][表格生成器]                     | [nodeppt - 网页演示库][nodeppt]                             | [世界上的核电站][世界上的核电站]       | [DokaPhoto - 在线图片编辑][DokaPhoto]
-[简历模板及在线编辑][简历模板及在线编辑]     |                                                             |                                        |
+## 网页
 
-# 素材
+Ⅰ                                   | Ⅱ                                        | Ⅲ                                       | Ⅳ
+------------------------------------|------------------------------------------|-----------------------------------------|-------------------------------
+[Urban Dictionary - 英文俚语词典][] | [万能命令 - 查寻/使用方便][]             | [奶牛快传][]                            | [智图压缩][]
+[File2HD - 下载网页所有文件][]      | [Detexify - 根据绘画推断 Latex][]        | [Latex 在线编辑][]                      | [Gossip - 网页创建/炫酷播放类 PPT 内容][]
+[Link Lock - 纯前端开源 URL 加密][] | [markmap - MD 转思维导图导出 HTML/SVG][] | [Doka Photo - 图片编辑][]               | [XAudioPro - 音频编辑][]
+[表格生成器][]                      | [世界上的核电站][]                       | [NGINX Config - 图形界面生成配置文件][] |
+[codeshare - 可管理代码分享][]      | [ubuntu pastebin - 代码分享][]           |                                         |
 
-Ⅰ                                              | Ⅱ                                        | Ⅲ                                          | Ⅳ
------------------------------------------------|------------------------------------------|--------------------------------------------|-----------------------------------
-[unDraw - 智能/信息化风格插画][unDraw]         | [Iconfont - 图标库/制作][Iconfont]       |                                            |
-[stick png - png 图片][StickPng]               | [Pexels - 摄影照片、视频][Pexels]         | [pixabay - 照片、矢量图、插图、视频][pixabay] | [isorepublic - 照片、视频][isorepublic]
-[爱给网 - 音效、配乐、视频、3D、平面、教程][爱给网] |                                          |                                            |
-[wallhaven - 壁纸][wallhaven]                  | [fake update - 系统更新图片][FakeUpdate] |                                            |
+[Urban Dictionary - 英文俚语词典]: https://www.urbandictionary.com/
+[万能命令 - 查寻/使用方便]: https://wanneng.run/cn/
+[奶牛快传]: https://cowtransfer.com/
+[智图压缩]: https://zhitu.isux.us/
+[File2HD - 下载网页所有文件]: http://www.file2hd.com/
+[Detexify - 根据绘画推断 Latex]: http://detexify.kirelabs.org/classify.html
+[Latex 在线编辑]: https://latex.vimsky.com/
+[Gossip - 网页创建/炫酷播放类 PPT 内容]: https://github.com/pearmini/gossip
+[Link Lock - 纯前端开源 URL 加密]: https://github.com/jstrieb/link-lock
+[markmap - Markdown 转思维导图导出 HTML/SVG]: https://markmap.js.org/
+[XAudioPro - 音频编辑]: https://www.xaudiopro.com/cn/
+[表格生成器]: https://tableconvert.com/
+[世界上的核电站]: https://www.carbonbrief.org/mapped-the-worlds-nuclear-power-plants
+[Doka Photo - 图片编辑]: https://doka.photo/
+[NGINX Config - 图形界面生成配置文件]: https://www.digitalocean.com/community/tools/nginx
+[codeshare - 可管理代码分享]: https://codeshare.io
+[ubuntu pastebin - 代码分享]: https://paste.ubuntu.com
 
 ## 浏览器插件
 
-- [Chrome 插件英雄榜](https://zhaoolee.gitbooks.io/chrome/content/)
-- [油猴](https://www.tampermonkey.net/) --- 最流行的用户脚本管理器
-- [Greasy Fork](https://greasyfork.org/zh-CN) --- 提供用户脚本的网站
-- [彩云小译](https://fanyi.caiyunapp.com/#/web) --- 指定一个词、一段话实时翻译；翻译整个页面并双语显示；不用登录
+Ⅰ                                               | Ⅱ                     | Ⅲ                         | Ⅳ
+------------------------------------------------|-----------------------|---------------------------|---------------------------------
+[AStar - VPN][]                                 | [Chrome 插件英雄榜][] | [油猴 - 用户脚本管理器][] | [Greasy Fork - 提供 Chrome 用户脚本][]
+[彩云小译 - 选中翻译；整页翻译双语显示；勿登录][] | [JSON View][]         |                           |
+
+[AStar - VPN]: https://chrome.google.com/webstore/detail/astar-vpn-free-and-fast-v/jajilbjjinjmgcibalaakngmkilboobh
+[Chrome 插件英雄榜]: https://zhaoolee.gitbooks.io/chrome/content/
+[油猴 - 用户脚本管理器]: https://www.tampermonkey.net/
+[Greasy Fork - 提供 Chrome 用户脚本]: https://greasyfork.org/zh-CN
+[彩云小译 - 选中翻译；整页翻译双语显示；勿登录]: https://fanyi.caiyunapp.com/#/web
+[JSON View]: https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=zh-CN
+
+## 库
+
+Ⅰ                            | Ⅱ                              | Ⅲ                 | Ⅳ
+-----------------------------|--------------------------------|-------------------|---------------------------------
+[Nodeppt - 网页演示库][]     | [uPlot - 小而快的图表展示库][] | [function-plot][] | [FastAPI - Python 的高性能 API 框架][]
+[spiderman - 分布式爬虫框架] |                                |                   |
+
+[Nodeppt - 网页演示库]: https://github.com/ksky521/nodeppt
+[uPlot - 小而快的图表展示库]: (https://github.com/leeoniya/uPlot)
+[function-plot]: https://mauriciopoppe.github.io/function-plot/
+[FastAPI - Python 的高性能 API 框架]: https://github.com/tiangolo/fastapi
+[spiderman - 分布式爬虫框架]: https://github.com/TurboWay/spiderman
 
 ## 软件
 
-- [正版中国](https://getitfree.cn/) --- 分享正版软件限时免费信息
-- [吾爱破解](https://www.52pojie.cn/)
-- [ZD423](https://www.zdfans.com/)
-- [软件缘](https://www.appcgn.com/)
-- [果壳剥壳](https://www.ghpym.com/) --- 还原软件的本质
-- [eZip](https://ezip.awehunt.com/) --- 专为 macOS 而设计的压缩软件；免费
-- [最美应用](http://zuimeia.com/)
-- [cpolar](https://dashboard.cpolar.com/get-started) --- 内网穿透
-- [GitBook 文档](https://gitbookio.gitbooks.io/documentation/index.html)
-- [GitBook 插件](http://gitbook.zhangjikai.com/plugins.html)
-- [natfrp 内网穿透](https://www.natfrp.com/?page=panel)
-- [哈利路亚输入法（Mac）](https://github.com/dongyuwei/hallelujahIM)
+Ⅰ                               | Ⅱ                          | Ⅲ            | Ⅳ
+--------------------------------|----------------------------|--------------|---------
+[正版中国 - 正版软件免费信息][] | [哈利路亚输入法 - macOS][] | [吾爱破解][] | [果核剥壳][]
+[eZip - macOS 解压专用][eZip]   | [oh-my-zsh][]              |              |
 
-## 教程
+[正版中国 - 正版软件免费信息]: https://getitfree.cn/
+[哈利路亚输入法 - macOS]: https://github.com/dongyuwei/hallelujahIM
+[吾爱破解]: https://www.52pojie.cn/
+[果核剥壳]: https://www.ghpym.com/
+[eZip - macOS 解压专用]: https://ezip.awehunt.com/
+[oh-my-zsh]: https://github.com/robbyrussell/oh-my-zsh
 
-- [中文文案排版指北](https://github.com/mzlogin/chinese-copywriting-guidelines)
-- [Markdown 语法说明(简体中文版)](https://www.appinn.com/markdown/#list)
-- [如何阅读科研论文](https://blog.csdn.net/qianlong4526888/article/details/11269129)
-- [如何成功](https://threadreaderapp.com/thread/1214274038933020672.html)
+# 素材
 
-## 办公
+Ⅰ                                        | Ⅱ                              | Ⅲ                                   | Ⅳ
+-----------------------------------------|--------------------------------|-------------------------------------|------------------------
+[unDraw - 互联网风格插画][]              | [Iconfont - 图标库/制作][]     |                                     |
+[stick png - png 图片][]                 | [Pexels - 摄影照片、视频][]     | [pixabay - 照片、矢量图、插图、视频][] | [isorepublic - 照片、视频][]
+[爱给网 - 音效、配乐、视频、3D、平面、教程][] |                                |                                     |
+[wallhaven - 壁纸][]                     | [fake update - 系统更新图片][] |                                     |
 
-- [极简简历制作](https://www.polebrief.com/index)
-- [优品PPT](http://www.ypppt.com/) --- 免费 PPT 模板
-- [Excel 帮助和学习（中文）](https://support.office.com/zh-cn/excel)
+[unDraw - 互联网风格插画]: https://undraw.co/illustrations
+[Iconfont - 图标库/制作]: https://www.iconfont.cn/
+[stick png - png 图片]: https://www.stickpng.com/
+[Pexels - 摄影照片、视频]: https://www.pexels.com/zh-cn/
+[pixabay - 照片、矢量图、插图、视频]: https://pixabay.com/
+[isorepublic - 照片、视频]: https://isorepublic.com/
+[爱给网 - 音效、配乐、视频、3D、平面、教程]: http://www.aigei.com/
+[wallhaven - 壁纸]: https://wallhaven.cc/
+[fake update - 系统更新图片]: http://fakeupdate.net
+
+# 算法
+
+Ⅰ                                                   | Ⅱ                      | Ⅲ                  | Ⅳ
+----------------------------------------------------|------------------------|--------------------|------------------------------------
+[算法可视化][]                                      | [leetcode 前 300 题][] | [RSA 原理与实现][] | [scikit-opt - 封装了 7 种启发式算法的 Py 库][]
+[基于用户投票的排名算法 - 6 个（阮一峰 12 年博客）][] |                        |                    |
+
+[算法可视化]: https://mp.weixin.qq.com/s/rUQEymRL5v82WWUwOErJPA
+[leetcode 前 300 题]: https://leetcode.wang/
+[RSA 原理与实现]: https://cjting.me/2020/03/13/rsa/
+[scikit-opt - 封装了 7 种启发式算法的 Py 库]: https://github.com/guofei9987/scikit-opt
+[基于用户投票的排名算法 - 6 个（阮一峰 12 年博客）]: http://www.ruanyifeng.com/blog/algorithm/#:~:text=%E5%9F%BA%E4%BA%8E%E7%94%A8%E6%88%B7%E6%8A%95%E7%A5%A8%E7%9A%84%E6%8E%92%E5%90%8D%E7%AE%97%E6%B3%95
+
+# 数据科学/AI
+
+Ⅰ                  | Ⅱ | Ⅲ | Ⅳ
+-------------------|---|---|--
+[动手学深度学习][] |   |   |
+
+[动手学深度学习]: https://zh.d2l.ai/index.html
+
+# 编程语言
+
+Ⅰ                               | Ⅱ                            | Ⅲ                       | Ⅳ
+--------------------------------|------------------------------|-------------------------|--
+[谷歌“厕所文”：什么时候写注释][] |                              |                         |
+[Go 语言示例教程][]             | [Go 语言 7 天实现一个项目][] |                         |
+[Numpy 数据表示的可视化介绍][]  | [Django-admin-cookbook][]    | [Py Excel 相关库介绍][] |
+[sojson 背景特效][]             |                              |                         |
+
+[谷歌“厕所文”：什么时候写注释]: https://testing.googleblog.com/2017/07/code-health-to-comment-or-not-to-comment.html)
+[Go 语言示例教程]: https://github.com/inancgumus/learngo
+[Go 语言 7 天实现一个项目]: (https://github.com/geektutu/7days-golang)
+[Numpy 数据表示的可视化介绍]: https://jalammar.github.io/visual-numpy/
+[Django-admin-cookbook]: https://books.agiliq.com/projects/django-admin-cookbook/en/latest/index.html
+[sojson 背景特效]: https://www.sojson.com/blog/127.html
+[Py Excel 相关库介绍]: http://www.python-excel.org/
+
+# 架构
+
+Ⅰ                    | Ⅱ                         | Ⅲ                         | Ⅳ
+---------------------|---------------------------|---------------------------|------------------
+[短网址原理及实现][] | [使用redis实现分布式锁][] | [对redis分布式锁的质疑][] | [redis作者对质疑的回应][]
+
+[短网址原理及实现]: https://hufangyun.com/2017/short-url/
+[使用redis实现分布式锁]: https://redis.io/topics/distlock
+[对redis分布式锁的质疑]: http://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html
+[redis作者对质疑的回应]: http://antirez.com/news/101
 
 ---
-
-# 娱乐
-
-- [Voxel三维积木建模](https://www.makerbean.com/voxelbuilder#C/2646532a9d8fe9c46af4a261e76f51:A/)
-- [各种电脑升级、bug 图片](http://fakeupdate.net)
-- [查无此人](https://thispersondoesnotexist.com/) --- 每次刷新网站，得到一张 AI 生成的人脸照片
-- [煎蛋](http://jandan.net/)
-- [PIECES 拼图（30 个 CSS 碎片进行拼图，呈现 30 种濒临灭绝的动物）](http://www.species-in-pieces.com/)
-- [星链计划以发射卫星实时位置图](https://satellitemap.space/indexA.html)
-
-## 游戏
-
-- [新合金弹头](http://www.4399.com/flash/1809.htm#search3) --- 网页
-- [Euclidea](https://www.euclidea.xyz/en/game/packs/) --- 平面几何作图游戏(有app)
-- [CodeTank](http://codetank.alloyteam.com/)
-- [极客战记](https://codecombat.163.com)
-- [CodeWar](https://www.codewar.cn/home)
-- [飞行模拟器](https://www.geo-fs.com/int/cn/index.php)
-- [文字修仙](https://louisalflame.github.io/CFantasyClick/index.html)
-- [yorg3](https://yorg3.io/) --- 塔防
-- https://mp.weixin.qq.com/s/7XFIIjypFI9vtd34HQWP7Q
-
-
-- [算法可视化](https://mp.weixin.qq.com/s/rUQEymRL5v82WWUwOErJPA)
-
-
-[如何认清问题](https://developer.aliyun.com/article/738121?spm=a1z389.11499242.0.0.65452413JIV3mg&utm_content=g_1000092000)
-
-[怎样改变自己](https://mp.weixin.qq.com/s/nln8TOBu5j6OL9hF2gFfkQ)
-
----
-
-
-## Julia
-
-- [Julia 学院](https://juliaacademy.com/)
-
-## 资源
-
-- [书栈网 BookStack](https://www.bookstack.cn/)：各种IT开源书籍和文档分享站点，在线阅读很舒服
-- [leetcode 前 300 题](https://leetcode.wang/) --- 每道都进行了详细通俗的分析，并且提供多种思路解法
-- [Go 语言示例教程](https://github.com/inancgumus/learngo) --- 一个 Go 语言初学者教程的示例仓库，收集了1000多个示例、练习和问题
-- [苹果开发者可能需要下载的各个版本的应用、系统、开发工具等](https://developer.apple.com/download/more/)
-- [Docker 镜像构建教程：减小镜像体积（中文）](https://fuckcloudnative.io/posts/docker-images-part1-reducing-image-size/)
-- [Go 语言 7 天实现一个项目](https://github.com/geektutu/7days-golang)
-- [免费的编程中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
-- [介绍设计模式](https://refactoringguru.cn/design-patterns)
-- [介绍作者强烈推荐的数据科学家路线课程](https://davidadrian.cc/top-courses-data-science/)
-- [谷歌“厕所文”：什么时候写注释](https://testing.googleblog.com/2017/07/code-health-to-comment-or-not-to-comment.html)
-- [8 Hacks For Your Next Tech Resume](https://dev.to/gemography/common-mistakes-in-dev-cvs-2a17)
-- [How does a CPU work?](https://milapneupane.com.np/2019/07/06/how-does-a-cpu-work/)
-- [短网址原理及实现](https://hufangyun.com/2017/short-url/)
-- [A Visual Intro to NumPy and Data Representation](https://jalammar.github.io/visual-numpy/)
-
-## web
-
-- [Django-admin-cookbook](https://books.agiliq.com/projects/django-admin-cookbook/en/latest/index.html)
-- [sojson 背景特效](https://www.sojson.com/blog/127.html)
-- [深入浅出现代Web编程](https://fullstackopen.com/zh/)
-- [uPlot](https://github.com/leeoniya/uPlot) --- 一个小（25k）而快的图表展示库
-- [js 通过 Cloudflare 免费获取请求者的所在国家和IP](https://blog.dataflowkit.com/determine-location-of-users/)  --- 例如：用于疫情、语言、价格符号、广告
-- [CSS 实现悬浮效果](https://mp.weixin.qq.com/s?__biz=MjM5NTY1MjY0MQ==&mid=2650742344&idx=3&sn=fdafa8bec7ab21dfbacb29ea2d605da5&chksm=befe8b0689890210df8483d008a5a354f988247d68f5c023df5865d985437119a88092ab7535&mpshare=1&scene=1&srcid=08174UHCvIUBYXARiory21k9#rd)
-- [Valine](https://valine.js.org/) --- 一个静态网站的评论系统，不需要后端，数据储存在 LeanCloud
-- [NGINX Config](https://www.digitalocean.com/community/tools/nginx) --- Nginx 的图形配置界面，点几下鼠标，自动生成配置文件，可以上传到服务器
-- [typical](https://github.com/camwiegert/typical) --- 零依赖、仅 400 字节的输入动画库
-- [FastAPI](https://github.com/tiangolo/fastapi) --- Python 的高性能 API 框架
-- [function-plot](https://mauriciopoppe.github.io/function-plot/)
-
-## 爬虫
-
-- [spiderman](https://github.com/TurboWay/spiderman) --- 一个通用的分布式爬虫框架，基于 scrapy-redis，只需编写少量代码即可完成分布式爬虫抓取数据
-
-## AI
-
-[动手学深度学习](https://zh.d2l.ai/index.html) --- 面向中文读者的能运行、可讨论的深度学习教科书
-
-## 算法
-
-- [scikit-opt](https://github.com/guofei9987/scikit-opt) --- 一个封装了 7 种启发式算法的 Python 代码库。分别是：差分进化算法、遗传算法、粒子群算法、模拟退火算法、蚁群算法、鱼群算法、免疫优化算法
-- 基于用户投票的排名算法（阮一峰 12 年的博客）
-  - [（一）：Delicious和Hacker News](http://www.ruanyifeng.com/blog/2012/02/ranking_algorithm_hacker_news.html)
-  - [（二）：Reddit](http://www.ruanyifeng.com/blog/2012/03/ranking_algorithm_reddit.html)
-  - [（三）：Stack Overflow](http://www.ruanyifeng.com/blog/2012/03/ranking_algorithm_stack_overflow.html)
-  - [（四）：牛顿冷却定律](http://www.ruanyifeng.com/blog/2012/03/ranking_algorithm_newton_s_law_of_cooling.html)
-  - [（五）：威尔逊区间](http://www.ruanyifeng.com/blog/2012/03/ranking_algorithm_wilson_score_interval.html)
-  - [（六）：贝叶斯平均](http://www.ruanyifeng.com/blog/2012/03/ranking_algorithm_bayesian_average.html)
-- [RSA 原理与实现](https://cjting.me/2020/03/13/rsa/)
-
-## 工具
-
-- [分布式哈希表 (DHT) 和 P2P 技术](https://luyuhuang.github.io/2020/03/06/dht-and-p2p.html)
-- 代码分享
-  - [codeshare 可管理](https://codeshare.io)
-  - [ubuntu pastebin 不可管理](https://paste.ubuntu.com)
-- [Branca](https://branca.io/) --- 一种安全令牌的数据格式，比 JWT 更安全
-- [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
-- [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=zh-CN) --- 校验、查看响应中的 JSON 数据
-- [Rete.js：可视化编程的 JS 框架](https://github.com/retejs/rete)
-- [面向开发者的搜索引擎](https://quickref.dev/)
-- [使用redis实现分布式锁](https://redis.io/topics/distlock)
-- [对redis分布式锁的质疑](http://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
-- [redis作者对质疑的回应](http://antirez.com/news/101)
-- [SSH 命令的三种代理功能（-L/-R/-D）](https://zhuanlan.zhihu.com/p/57630633)
-- [如何写出幂等的 bash 脚本](https://arslan.io/2019/07/03/how-to-write-idempotent-bash-scripts/)
-- [Termux 入门教程：架设手机 Server 下载文件](http://www.ruanyifeng.com/blog/2019/07/termux-tutorial.html)
-
-### Git、GitHub
-
-- [Git 推送到多个仓库](http://www.gnailuy.com/linux/2019/02/25/git-push-to-multiple-repositories/)
-- [GitHub 使用技巧](https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/)
-- [GitHub 帮助文档](https://help.github.com/cn) --- 中文未翻译完
-- [从 0 开始学习 GitHub](https://pan.baidu.com/s/1hsn57YO) --- 中文
-- [Github 使用技巧：存储文件、项目实例](http://solutionoptimist.com/awesome-github-tricks/)
-- [GitHub 部署网站](https://blog.csdn.net/u010105970/article/details/53889297)
-- [缩减GitHub仓库大小,彻底清除垃圾文件](https://www.jianshu.com/p/6217949e87a3)
-- http://www.python-excel.org/
-
-
-<!-- A -->
-<!-- C -->
-[ChromeVPN插件]: https://chrome.google.com/webstore/detail/astar-vpn-free-and-fast-v/jajilbjjinjmgcibalaakngmkilboobh
-[CompleteKnotList]: https://www.animatedknots.com/complete-knot-list
-<!-- D -->
-[Detexify网页版]: http://detexify.kirelabs.org/classify.html
-[DokaPhoto]: https://doka.photo/
-<!-- F -->
-[FakeUpdate]: http://fakeupdate.net
-[File2HD]: http://www.file2hd.com/
-<!-- G -->
-[GitHub中文排行榜]: https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts
-[Gossip]: https://github.com/pearmini/gossip
-<!-- H -->
-[HelloGithub]: https://www.hellogithub.com
-<!-- I -->
-[Iconfont]: https://www.iconfont.cn/
-[InternetArchive]: https://archive.org/
-[isorepublic]: https://isorepublic.com/
-<!-- L -->
-[Latex在线编辑]: https://latex.vimsky.com/
-<!-- M -->
-[Markdown转思维导图]: https://markmap.js.org/
-[MITOcw]: https://ocw.mit.edu/
-[MyVoiceYourFace]: https://myvoiceyourface.com/
-<!-- N -->
-[Nodeppt]: https://github.com/ksky521/nodeppt
-<!-- O -->
-[OpenCulture]: http://www.openculture.com/
-<!-- P -->
-[Pexels]: https://www.pexels.com/zh-cn/
-[pixabay]: https://pixabay.com/
-<!-- S -->
-[StickPng]: https://www.stickpng.com/
-<!-- U -->
-[UrbanDictionary]: https://www.urbandictionary.com/
-[unDraw]: https://undraw.co/illustrations
-[LinkLock]: https://github.com/jstrieb/link-lock
-<!-- W -->
-[wallhaven]: https://wallhaven.cc/
-<!-- X -->
-[XAudioPro]: https://www.xaudiopro.com/cn/
-
-
-<!-- A -->
-[爱给网]: http://www.aigei.com/
-<!-- B -->
-[必看网]: https://www.biikan.com/
-[表格生成器]: https://tableconvert.com/
-<!-- C -->
-[彩虹屁]: https://chp.shadiao.app/
-<!-- D -->
-<!-- F -->
-[反向面试]: https://github.com/yifeikong/reverse-interview-zh
-<!-- H -->
-[海贼王故事线]: https://datamuse.guokr.com/opd
-<!-- J -->
-[简历模板及在线编辑]: https://resume.io/app/create-resume/templates
-[今日热榜]: https://tophub.today
-<!-- L -->
-[量子计算]: https://brilliant.org/courses/quantum-computing/
-<!-- M -->
-[码力全开]: https://design.maliquankai.com/
-[面试潜规则]: https://mp.weixin.qq.com/s/nZnkDsrnzXTfoFh3de0Vcg
-[敏迪选读]: https://www.mindiworldnews.com
-<!-- N -->
-[奶牛快传]: https://cowtransfer.com/
-<!-- Q -->
-[全历史]: https://www.allhistory.com/
-<!-- R -->
-[阮一峰]: http://www.ruanyifeng.com/home.html
-<!-- S -->
-[世界上的核电站]: https://www.carbonbrief.org/mapped-the-worlds-nuclear-power-plants
-[斯诺登自传]: https://a.temporaryrecord.com/
-<!-- T -->
-[土味情话]: https://works.yangerxiao.com/honeyed-words-generator/
-<!-- W -->
-[万能命令]: https://wanneng.run/cn/
-<!-- X -->
-[新趣集]: https://xinquji.com/
-<!-- Y -->
-<!-- Z -->
-[智图压缩]: https://zhitu.isux.us/
-
 
 编写规则：
 * 表格为 4 列，使用罗马数字作为列名
-* 链接存放排序：
-  1. 英汉
-  2. 单词/拼音字母顺序
-  3. 大小写/声调顺序
-* 链接名字：
-  * 只能由中英文字符组成，不能重复
-  * 英文大驼峰
+* 内容为隐式链接，内容名与链接名保持一致，使用简化写法
+* 链接名称格式：名称[ - 简介]
+* 链接直接放于表格后面，依照表格内容顺序排序
