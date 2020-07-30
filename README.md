@@ -97,7 +97,7 @@
 [File2HD - 下载网页所有文件][]      | [Detexify - 根据绘画推断 Latex][]        | [Latex 在线编辑][]                      | [Gossip - 网页创建/炫酷播放类 PPT 内容][]
 [Link Lock - 纯前端开源 URL 加密][] | [markmap - MD 转思维导图导出 HTML/SVG][] | [Doka Photo - 图片编辑][]               | [XAudioPro - 音频编辑][]
 [表格生成器][]                      | [世界上的核电站][]                       | [NGINX Config - 图形界面生成配置文件][] |
-[codeshare - 可管理代码分享][]      | [ubuntu pastebin - 代码分享][]           |                                         |
+[codeshare - 可管理代码分享][]      | [ubuntu pastebin - 代码分享][]           | [路过图床][]                            |
 
 [Urban Dictionary - 英文俚语词典]: https://www.urbandictionary.com/
 [万能命令 - 查寻/使用方便]: https://wanneng.run/cn/
@@ -116,6 +116,7 @@
 [NGINX Config - 图形界面生成配置文件]: https://www.digitalocean.com/community/tools/nginx
 [codeshare - 可管理代码分享]: https://codeshare.io
 [ubuntu pastebin - 代码分享]: https://paste.ubuntu.com
+[路过图床]: https://imgchr.com/
 
 ## 浏览器插件
 
