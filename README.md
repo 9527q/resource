@@ -74,14 +74,13 @@
 
 Ⅰ                            | Ⅱ                                      | Ⅲ                                    | Ⅳ
 -----------------------------|----------------------------------------|--------------------------------------|----------------------------
-[MIT OCW - MIT 官方公开课][] | [量子计算课程][]                       | [中文文案排版指北][]                 | [Markdown 语法说明(简体中文版)][]
+[MIT OCW - MIT 官方公开课][] | [量子计算课程][]                       | [中文文案排版指北][]                 |
 [Julia 学院][]               | [书栈网 - IT 开源书籍/文档；在线阅读][] | [深入浅出现代Web编程 - 大学公开课][] | [SSH 命令的三种代理功能（-L/-R/-D）][]
 [如何写出幂等的 bash 脚本][] |                                        |                                      |
 
 [MIT OCW - MIT 官方公开课]: https://ocw.mit.edu/
 [量子计算课程]: https://brilliant.org/courses/quantum-computing/
 [中文文案排版指北]: https://github.com/mzlogin/chinese-copywriting-guidelines
-[Markdown 语法说明(简体中文版)]: https://www.appinn.com/markdown/#list
 [Julia 学院]: https://juliaacademy.com/
 [书栈网 - IT 开源书籍/文档；在线阅读]: https://www.bookstack.cn/
 [深入浅出现代Web编程 - 大学公开课]: https://fullstackopen.com/zh/
