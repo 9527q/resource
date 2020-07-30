@@ -108,7 +108,7 @@
 [Latex 在线编辑]: https://latex.vimsky.com/
 [Gossip - 网页创建/炫酷播放类 PPT 内容]: https://github.com/pearmini/gossip
 [Link Lock - 纯前端开源 URL 加密]: https://github.com/jstrieb/link-lock
-[markmap - Markdown 转思维导图导出 HTML/SVG]: https://markmap.js.org/
+[markmap - MD 转思维导图导出 HTML/SVG]: https://markmap.js.org/
 [XAudioPro - 音频编辑]: https://www.xaudiopro.com/cn/
 [表格生成器]: https://tableconvert.com/
 [世界上的核电站]: https://www.carbonbrief.org/mapped-the-worlds-nuclear-power-plants
@@ -136,7 +136,7 @@
 Ⅰ                            | Ⅱ                              | Ⅲ                 | Ⅳ
 -----------------------------|--------------------------------|-------------------|---------------------------------
 [Nodeppt - 网页演示库][]     | [uPlot - 小而快的图表展示库][] | [function-plot][] | [FastAPI - Python 的高性能 API 框架][]
-[spiderman - 分布式爬虫框架] |                                |                   |
+[spiderman - 分布式爬虫框架][] |                                |                   |
 
 [Nodeppt - 网页演示库]: https://github.com/ksky521/nodeppt
 [uPlot - 小而快的图表展示库]: (https://github.com/leeoniya/uPlot)
@@ -149,7 +149,7 @@
 Ⅰ                               | Ⅱ                          | Ⅲ            | Ⅳ
 --------------------------------|----------------------------|--------------|---------
 [正版中国 - 正版软件免费信息][] | [哈利路亚输入法 - macOS][] | [吾爱破解][] | [果核剥壳][]
-[eZip - macOS 解压专用][eZip]   | [oh-my-zsh][]              |              |
+[eZip - macOS 解压专用][]   | [oh-my-zsh][]              |              |
 
 [正版中国 - 正版软件免费信息]: https://getitfree.cn/
 [哈利路亚输入法 - macOS]: https://github.com/dongyuwei/hallelujahIM
