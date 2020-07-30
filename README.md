@@ -10,7 +10,7 @@
 Ⅰ                     | Ⅱ                                  | Ⅲ               | Ⅳ
 ----------------------|------------------------------------|-----------------|---------
 [敏迪选读][]          | [阮一峰][]                         | [HelloGithub][] | [今日热榜][]
-[GitHub 中文排行榜][] | [码力全开 - 产品/设计师的资源库][] |                 |
+[GitHub 中文排行榜][] | [码力全开 - 产品/设计师的资源库][] | [郝][]          |
 
 [敏迪选读]: https://www.mindiworldnews.com
 [阮一峰]: http://www.ruanyifeng.com/home.html
@@ -18,6 +18,7 @@
 [今日热榜]: https://tophub.today
 [GitHub 中文排行榜]: https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts
 [码力全开 - 产品/设计师的资源库]: https://design.maliquankai.com/
+[郝]: http://118.190.215.104:84/
 
 # 文化
 
