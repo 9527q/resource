@@ -44,13 +44,13 @@
 
 # 娱乐/新奇
 
-Ⅰ                                                                   | Ⅱ                              | Ⅲ                               | Ⅳ
---------------------------------------------------------------------|--------------------------------|---------------------------------|------------------------------
-[CompleteKnotList - 绳结大全][]                                     | [新趣集 - 发现产品][]          | [海贼王故事线 - 移动端体验好][] | [新合金弹头][]
-[彩虹屁][]                                                          | [土味情话][]                   | [MyVoiceYourFace - 视频换脸][]  | [Euclidea - 平面几何作图游戏；有 APP][]
-[this person does not exist - 每次请求返回一张 AI 生成的人脸照片][] | [星链计划已发射卫星实时位置][] | [CodeTank][]                    | [极客战记][]
-[CodeWar][]                                                         | [飞行模拟器][]                 | [文字修仙][]                    | [yorg3 - 塔防][]
-[Oskar Stålberg 的建模游戏][]                                       |                                |                                 |
+Ⅰ                                                                   | Ⅱ                                                 | Ⅲ                               | Ⅳ
+--------------------------------------------------------------------|---------------------------------------------------|---------------------------------|------------------------------
+[CompleteKnotList - 绳结大全][]                                     | [新趣集 - 发现产品][]                             | [海贼王故事线 - 移动端体验好][] | [新合金弹头][]
+[彩虹屁][]                                                          | [土味情话][]                                      | [MyVoiceYourFace - 视频换脸][]  | [Euclidea - 平面几何作图游戏；有 APP][]
+[this person does not exist - 每次请求返回一张 AI 生成的人脸照片][] | [星链计划已发射卫星实时位置][]                    | [CodeTank][]                    | [极客战记][]
+[CodeWar][]                                                         | [飞行模拟器][]                                    | [文字修仙][]                    | [yorg3 - 塔防][]
+[Oskar Stålberg 的建模游戏][]                                       | [Impossible Objects - 不可能事物的 3D 打印源码][] |                                 |
 
 [CompleteKnotList - 绳结大全]: https://www.animatedknots.com/complete-knot-list
 [新趣集 - 发现产品]: https://xinquji.com/
@@ -69,6 +69,7 @@
 [文字修仙]: https://louisalflame.github.io/CFantasyClick/index.html)
 [yorg3 - 塔防]: https://yorg3.io/)
 [Oskar Stålberg 的建模游戏]: https://mp.weixin.qq.com/s/7XFIIjypFI9vtd34HQWP7Q
+[Impossible Objects - 不可能事物的 3D 打印源码]: https://github.com/Matsemann/impossible-objects
 
 # 课程/教程/文档
 
