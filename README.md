@@ -99,6 +99,7 @@
 [Link Lock - 纯前端开源 URL 加密][] | [markmap - MD 转思维导图导出 HTML/SVG][] | [Doka Photo - 图片编辑][]               | [XAudioPro - 音频编辑][]
 [表格生成器][]                      | [世界上的核电站][]                       | [NGINX Config - 图形界面生成配置文件][] | [Compiler Explorer - 代码转汇编][]
 [codeshare - 可管理代码分享][]      | [ubuntu pastebin - 代码分享][]           | [路过图床][]                            | [图片压缩][]
+[QRpicture][]                       |                                          |                                         |
 
 [Urban Dictionary - 英文俚语词典]: https://www.urbandictionary.com/
 [万能命令 - 查寻/使用方便]: https://wanneng.run/cn/
@@ -120,6 +121,7 @@
 [路过图床]: https://imgchr.com/
 [Compiler Explorer - 代码转汇编]: https://godbolt.org/
 [图片压缩]: https://www.tuhaokuai.com/gif
+[QRpicture]: https://www.qrpicture.com/
 
 ## 浏览器插件
 
