@@ -50,7 +50,7 @@
 [彩虹屁][]                                                          | [土味情话][]                                      | [MyVoiceYourFace - 视频换脸][]  | [Euclidea - 平面几何作图游戏；有 APP][]
 [this person does not exist - 每次请求返回一张 AI 生成的人脸照片][] | [星链计划已发射卫星实时位置][]                    | [CodeTank][]                    | [极客战记][]
 [CodeWar][]                                                         | [飞行模拟器][]                                    | [文字修仙][]                    | [yorg3 - 塔防][]
-[Oskar Stålberg 的建模游戏][]                                       | [Impossible Objects - 不可能事物的 3D 打印源码][] |                                 |
+[Oskar Stålberg 的建模游戏][]                                       | [Impossible Objects - 不可能事物的 3D 打印源码][] |   [100000stars](http://stars.chromeexperiments.com/)                              |
 
 [CompleteKnotList - 绳结大全]: https://www.animatedknots.com/complete-knot-list
 [新趣集 - 发现产品]: https://xinquji.com/
